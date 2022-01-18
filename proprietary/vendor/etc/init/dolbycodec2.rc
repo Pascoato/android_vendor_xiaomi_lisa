@@ -1,7 +1,0 @@
-service dolbycodec2 /vendor/bin/hw/dolbycodec2
-    class hal
-    user root
-    group root
-    override
-    ioprio rt 4
-    writepid /dev/cpuset/foreground/tasks
