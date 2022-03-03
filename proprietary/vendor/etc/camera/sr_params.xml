@@ -1,5 +1,5 @@
 <TetrasSRParams>
-	<SRVersion>SR_X_SDM_V2.0.1.3985_M1.9_k9d_2021-09-03 23:20:05</SRVersion>
+	<SRVersion>SR_X_SDM_V2.0.1.3230_M1.9_k9d_2021-07-16 20:32:25</SRVersion>
 	<SRParams>
 		<ParamGroup>
 			<MatchEuqalCamId>SR_CAMERA_ID_K9D_WIDE_GW3</MatchEuqalCamId>
@@ -21,10 +21,10 @@
 						<Mutable_EdgeDilate>2.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.000000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.300000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.300000</Mutable_White_Alpha_High>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_CtTreshold>1.500000</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.190000</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.190000</Mutable_White_Alpha_High>
 						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
 						<Mutable_Edge_K_Detail>0.050000</Mutable_Edge_K_Detail>
 						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
@@ -37,11 +37,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>0.680000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>0.560000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.320000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.200000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>1.400000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>0.560000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>0.680000</Mutable_MotionLevelStrength3>
@@ -75,7 +75,7 @@
 						<Mutable_EdgeDilate>2.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
 						<Mutable_CtTreshold>1.500000</Mutable_CtTreshold>
 						<Mutable_White_Alpha_Low>0.300000</Mutable_White_Alpha_Low>
 						<Mutable_White_Alpha_High>0.300000</Mutable_White_Alpha_High>
@@ -91,11 +91,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>1.800000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.200000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.900000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.100000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>3.300000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>1.200000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>1.200000</Mutable_MotionLevelStrength3>
@@ -129,7 +129,7 @@
 						<Mutable_EdgeDilate>2.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.2</Mutable_Spec_ModelFineTune_DenoiseStrength>
 						<Mutable_CtTreshold>2.000000</Mutable_CtTreshold>
 						<Mutable_White_Alpha_Low>0.300000</Mutable_White_Alpha_Low>
 						<Mutable_White_Alpha_High>0.300000</Mutable_White_Alpha_High>
@@ -145,11 +145,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>0.600000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>0.400000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.300000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.100000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>1.100000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>0.400000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>0.400000</Mutable_MotionLevelStrength3>
@@ -183,7 +183,7 @@
 						<Mutable_EdgeDilate>2.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.2</Mutable_Spec_ModelFineTune_DenoiseStrength>
 						<Mutable_CtTreshold>2.000000</Mutable_CtTreshold>
 						<Mutable_White_Alpha_Low>0.200000</Mutable_White_Alpha_Low>
 						<Mutable_White_Alpha_High>0.200000</Mutable_White_Alpha_High>
@@ -199,11 +199,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>1.600000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.200000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.600000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>2.200000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>1.400000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>1.200000</Mutable_MotionLevelStrength3>
@@ -237,7 +237,7 @@
 						<Mutable_EdgeDilate>2.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
 						<Mutable_CtTreshold>3.000000</Mutable_CtTreshold>
 						<Mutable_White_Alpha_Low>0.100000</Mutable_White_Alpha_Low>
 						<Mutable_White_Alpha_High>0.100000</Mutable_White_Alpha_High>
@@ -253,11 +253,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>1.500000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.050000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.450000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>3.100000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>1.600000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>1.050000</Mutable_MotionLevelStrength3>
@@ -308,11 +308,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>2.000000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.400000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.600000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>4.200000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>2.200000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>1.400000</Mutable_MotionLevelStrength3>
@@ -362,11 +362,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>1.900000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.200000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.750000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.300000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>3.100000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>1.600000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>1.050000</Mutable_MotionLevelStrength3>
@@ -416,11 +416,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>7.200000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>5.100000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>1.300000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>18.000000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>12.000000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>4.500000</Mutable_MotionLevelStrength3>
@@ -470,11 +470,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>5.000000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>2.000000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>1.600000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.200000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>12.000000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>10.000000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>4.000000</Mutable_MotionLevelStrength3>
@@ -524,11 +524,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>18.000000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>7.500000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>4.000000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>1.800000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>1.800000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>36.000000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>30.000000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>12.000000</Mutable_MotionLevelStrength3>
@@ -557,163 +557,163 @@
 				<ParamItem>
 					<MatchMaxIso>200</MatchMaxIso>
 					<ParamAlignment>
-						<Mutable_SharpBoxFilterRadius>1</Mutable_SharpBoxFilterRadius>
-						<Mutable_SharpGradientThresh>6</Mutable_SharpGradientThresh>
-						<Mutable_ModelRefMaskThresh>9</Mutable_ModelRefMaskThresh>
-						<Mutable_AlignMask_Threshold>9</Mutable_AlignMask_Threshold>
+						<Mutable_SharpBoxFilterRadius>1.0</Mutable_SharpBoxFilterRadius>
+						<Mutable_SharpGradientThresh>6.0</Mutable_SharpGradientThresh>
+						<Mutable_ModelRefMaskThresh>9.0</Mutable_ModelRefMaskThresh>
+						<Mutable_AlignMask_Threshold>9.0</Mutable_AlignMask_Threshold>
 					</ParamAlignment>
 					<ParamSharpness>
-						<Mutable_EdgeSigma>0.850000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>12.690000</Mutable_EdgeAmount>
-						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
-						<Mutable_EdgeDilate>2.000000</Mutable_EdgeDilate>
+						<Mutable_EdgeSigma>0.85</Mutable_EdgeSigma>
+						<Mutable_EdgeAmount>28.69</Mutable_EdgeAmount>
+						<Mutable_CgIncrease>0.0</Mutable_CgIncrease>
+						<Mutable_EdgeDilate>2.0</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>-0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.300000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.200000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.200000</Mutable_White_Alpha_High>
-						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
-						<Mutable_Edge_K_Detail>0.050000</Mutable_Edge_K_Detail>
-						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
-						<Mutable_Edge_K_Shrink>1.000000</Mutable_Edge_K_Shrink>
-						<Mutable_Edge_A_Sigma>0.020000</Mutable_Edge_A_Sigma>
-						<Mutable_Edge_A_Thresh>0.010000</Mutable_Edge_A_Thresh>
-						<Mutable_Edge_K_Denoise>0.500000</Mutable_Edge_K_Denoise>
-						<Mutable_Edge_A_Power>4</Mutable_Edge_A_Power>
-						<Mutable_Ref_Blur_Rate_Threshold>0.950000</Mutable_Ref_Blur_Rate_Threshold>
-						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_CtTreshold>2.0</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.1</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.1</Mutable_White_Alpha_High>
+						<Mutable_Edge_K_Radius>1.0</Mutable_Edge_K_Radius>
+						<Mutable_Edge_K_Detail>0.05</Mutable_Edge_K_Detail>
+						<Mutable_Edge_K_Stretch>4.0</Mutable_Edge_K_Stretch>
+						<Mutable_Edge_K_Shrink>1.0</Mutable_Edge_K_Shrink>
+						<Mutable_Edge_A_Sigma>0.02</Mutable_Edge_A_Sigma>
+						<Mutable_Edge_A_Thresh>0.01</Mutable_Edge_A_Thresh>
+						<Mutable_Edge_K_Denoise>0.5</Mutable_Edge_K_Denoise>
+						<Mutable_Edge_A_Power>4.0</Mutable_Edge_A_Power>
+						<Mutable_Ref_Blur_Rate_Threshold>0.95</Mutable_Ref_Blur_Rate_Threshold>
+						<Mutable_Edge_k_Radius_Lr>1.0</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
-						<Mutable_MotionLevelStrength1>1.400000</Mutable_MotionLevelStrength1>
-						<Mutable_MotionLevelStrength2>0.560000</Mutable_MotionLevelStrength2>
-						<Mutable_MotionLevelStrength3>0.680000</Mutable_MotionLevelStrength3>
-						<Mutable_MotionLevelStrength4>0.200000</Mutable_MotionLevelStrength4>
-						<Mutable_MotionLevelStrength5>0.200000</Mutable_MotionLevelStrength5>
+						<Mutable_LevelStrength1>1.88</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.76</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>1.53</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.5</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.5</Mutable_LevelStrength5>
+						<Mutable_MotionLevelStrength1>1.4</Mutable_MotionLevelStrength1>
+						<Mutable_MotionLevelStrength2>0.56</Mutable_MotionLevelStrength2>
+						<Mutable_MotionLevelStrength3>0.68</Mutable_MotionLevelStrength3>
+						<Mutable_MotionLevelStrength4>0.2</Mutable_MotionLevelStrength4>
+						<Mutable_MotionLevelStrength5>0.2</Mutable_MotionLevelStrength5>
 					</UVDnoise>
 					<InnerDimension>
-						<Mutable_ImplementScale>2.000000</Mutable_ImplementScale>
-						<Mutable_Div_Block_Num_X>1</Mutable_Div_Block_Num_X>
-						<Mutable_Div_Block_Num_Y>6</Mutable_Div_Block_Num_Y>
-						<Mutable_Div_Half_OverLap>6</Mutable_Div_Half_OverLap>
+						<Mutable_ImplementScale>2.0</Mutable_ImplementScale>
+						<Mutable_Div_Block_Num_X>1.0</Mutable_Div_Block_Num_X>
+						<Mutable_Div_Block_Num_Y>6.0</Mutable_Div_Block_Num_Y>
+						<Mutable_Div_Half_OverLap>6.0</Mutable_Div_Half_OverLap>
 					</InnerDimension>
 					<TwoDirecEdgeSmoothParams>
 						<Mutable_TwoDirec_EdgeSmooth_Sigma>10.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
 						<Mutable_TwoDirec_EdgeSmooth_Dilation>1.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
-						<Mutable_TwoDirec_EdgeSmooth_Radius>2</Mutable_TwoDirec_EdgeSmooth_Radius>
+						<Mutable_TwoDirec_EdgeSmooth_Radius>2.0</Mutable_TwoDirec_EdgeSmooth_Radius>
 					</TwoDirecEdgeSmoothParams>
 				</ParamItem>
 				<ParamItem>
 					<MatchMaxIso>300</MatchMaxIso>
 					<ParamAlignment>
-						<Mutable_SharpBoxFilterRadius>1</Mutable_SharpBoxFilterRadius>
-						<Mutable_SharpGradientThresh>6</Mutable_SharpGradientThresh>
-						<Mutable_ModelRefMaskThresh>12</Mutable_ModelRefMaskThresh>
-						<Mutable_AlignMask_Threshold>9</Mutable_AlignMask_Threshold>
+						<Mutable_SharpBoxFilterRadius>1.0</Mutable_SharpBoxFilterRadius>
+						<Mutable_SharpGradientThresh>6.0</Mutable_SharpGradientThresh>
+						<Mutable_ModelRefMaskThresh>12.0</Mutable_ModelRefMaskThresh>
+						<Mutable_AlignMask_Threshold>9.0</Mutable_AlignMask_Threshold>
 					</ParamAlignment>
 					<ParamSharpness>
-						<Mutable_EdgeSigma>0.850000</Mutable_EdgeSigma>
+						<Mutable_EdgeSigma>0.85</Mutable_EdgeSigma>
 						<Mutable_EdgeAmount>14.690001</Mutable_EdgeAmount>
-						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
-						<Mutable_EdgeDilate>2.000000</Mutable_EdgeDilate>
+						<Mutable_CgIncrease>0.0</Mutable_CgIncrease>
+						<Mutable_EdgeDilate>2.0</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.500000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.200000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.200000</Mutable_White_Alpha_High>
-						<Mutable_Edge_K_Radius>2</Mutable_Edge_K_Radius>
-						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
-						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
-						<Mutable_Edge_K_Shrink>1.000000</Mutable_Edge_K_Shrink>
-						<Mutable_Edge_A_Sigma>0.020000</Mutable_Edge_A_Sigma>
-						<Mutable_Edge_A_Thresh>0.010000</Mutable_Edge_A_Thresh>
-						<Mutable_Edge_K_Denoise>0.500000</Mutable_Edge_K_Denoise>
-						<Mutable_Edge_A_Power>4</Mutable_Edge_A_Power>
-						<Mutable_Ref_Blur_Rate_Threshold>0.950000</Mutable_Ref_Blur_Rate_Threshold>
-						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_CtTreshold>2.0</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.3</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.3</Mutable_White_Alpha_High>
+						<Mutable_Edge_K_Radius>2.0</Mutable_Edge_K_Radius>
+						<Mutable_Edge_K_Detail>0.02</Mutable_Edge_K_Detail>
+						<Mutable_Edge_K_Stretch>4.0</Mutable_Edge_K_Stretch>
+						<Mutable_Edge_K_Shrink>1.0</Mutable_Edge_K_Shrink>
+						<Mutable_Edge_A_Sigma>0.02</Mutable_Edge_A_Sigma>
+						<Mutable_Edge_A_Thresh>0.01</Mutable_Edge_A_Thresh>
+						<Mutable_Edge_K_Denoise>0.5</Mutable_Edge_K_Denoise>
+						<Mutable_Edge_A_Power>4.0</Mutable_Edge_A_Power>
+						<Mutable_Ref_Blur_Rate_Threshold>0.95</Mutable_Ref_Blur_Rate_Threshold>
+						<Mutable_Edge_k_Radius_Lr>1.0</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
-						<Mutable_MotionLevelStrength1>3.300000</Mutable_MotionLevelStrength1>
-						<Mutable_MotionLevelStrength2>1.200000</Mutable_MotionLevelStrength2>
-						<Mutable_MotionLevelStrength3>1.200000</Mutable_MotionLevelStrength3>
-						<Mutable_MotionLevelStrength4>0.100000</Mutable_MotionLevelStrength4>
-						<Mutable_MotionLevelStrength5>0.100000</Mutable_MotionLevelStrength5>
+						<Mutable_LevelStrength1>1.8</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.2</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.9</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.1</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.1</Mutable_LevelStrength5>
+						<Mutable_MotionLevelStrength1>3.3</Mutable_MotionLevelStrength1>
+						<Mutable_MotionLevelStrength2>1.2</Mutable_MotionLevelStrength2>
+						<Mutable_MotionLevelStrength3>1.2</Mutable_MotionLevelStrength3>
+						<Mutable_MotionLevelStrength4>0.1</Mutable_MotionLevelStrength4>
+						<Mutable_MotionLevelStrength5>0.1</Mutable_MotionLevelStrength5>
 					</UVDnoise>
 					<InnerDimension>
-						<Mutable_ImplementScale>2.000000</Mutable_ImplementScale>
-						<Mutable_Div_Block_Num_X>1</Mutable_Div_Block_Num_X>
-						<Mutable_Div_Block_Num_Y>6</Mutable_Div_Block_Num_Y>
-						<Mutable_Div_Half_OverLap>6</Mutable_Div_Half_OverLap>
+						<Mutable_ImplementScale>2.0</Mutable_ImplementScale>
+						<Mutable_Div_Block_Num_X>1.0</Mutable_Div_Block_Num_X>
+						<Mutable_Div_Block_Num_Y>6.0</Mutable_Div_Block_Num_Y>
+						<Mutable_Div_Half_OverLap>6.0</Mutable_Div_Half_OverLap>
 					</InnerDimension>
 					<TwoDirecEdgeSmoothParams>
 						<Mutable_TwoDirec_EdgeSmooth_Sigma>10.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
 						<Mutable_TwoDirec_EdgeSmooth_Dilation>1.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
-						<Mutable_TwoDirec_EdgeSmooth_Radius>3</Mutable_TwoDirec_EdgeSmooth_Radius>
+						<Mutable_TwoDirec_EdgeSmooth_Radius>3.0</Mutable_TwoDirec_EdgeSmooth_Radius>
 					</TwoDirecEdgeSmoothParams>
 				</ParamItem>
 				<ParamItem>
 					<MatchMaxIso>400</MatchMaxIso>
 					<ParamAlignment>
-						<Mutable_SharpBoxFilterRadius>1</Mutable_SharpBoxFilterRadius>
-						<Mutable_SharpGradientThresh>6</Mutable_SharpGradientThresh>
-						<Mutable_ModelRefMaskThresh>12</Mutable_ModelRefMaskThresh>
-						<Mutable_AlignMask_Threshold>9</Mutable_AlignMask_Threshold>
+						<Mutable_SharpBoxFilterRadius>1.0</Mutable_SharpBoxFilterRadius>
+						<Mutable_SharpGradientThresh>6.0</Mutable_SharpGradientThresh>
+						<Mutable_ModelRefMaskThresh>12.0</Mutable_ModelRefMaskThresh>
+						<Mutable_AlignMask_Threshold>9.0</Mutable_AlignMask_Threshold>
 					</ParamAlignment>
 					<ParamSharpness>
-						<Mutable_EdgeSigma>0.950000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>14.690000</Mutable_EdgeAmount>
-						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
-						<Mutable_EdgeDilate>2.000000</Mutable_EdgeDilate>
+						<Mutable_EdgeSigma>0.95</Mutable_EdgeSigma>
+						<Mutable_EdgeAmount>14.69</Mutable_EdgeAmount>
+						<Mutable_CgIncrease>0.0</Mutable_CgIncrease>
+						<Mutable_EdgeDilate>2.0</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.800000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.200000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.200000</Mutable_White_Alpha_High>
-						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
-						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
-						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
-						<Mutable_Edge_K_Shrink>1.000000</Mutable_Edge_K_Shrink>
-						<Mutable_Edge_A_Sigma>0.020000</Mutable_Edge_A_Sigma>
-						<Mutable_Edge_A_Thresh>0.010000</Mutable_Edge_A_Thresh>
-						<Mutable_Edge_K_Denoise>0.500000</Mutable_Edge_K_Denoise>
-						<Mutable_Edge_A_Power>4</Mutable_Edge_A_Power>
-						<Mutable_Ref_Blur_Rate_Threshold>0.950000</Mutable_Ref_Blur_Rate_Threshold>
-						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_CtTreshold>4.0</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.3</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.3</Mutable_White_Alpha_High>
+						<Mutable_Edge_K_Radius>1.0</Mutable_Edge_K_Radius>
+						<Mutable_Edge_K_Detail>0.02</Mutable_Edge_K_Detail>
+						<Mutable_Edge_K_Stretch>4.0</Mutable_Edge_K_Stretch>
+						<Mutable_Edge_K_Shrink>1.0</Mutable_Edge_K_Shrink>
+						<Mutable_Edge_A_Sigma>0.02</Mutable_Edge_A_Sigma>
+						<Mutable_Edge_A_Thresh>0.01</Mutable_Edge_A_Thresh>
+						<Mutable_Edge_K_Denoise>0.5</Mutable_Edge_K_Denoise>
+						<Mutable_Edge_A_Power>4.0</Mutable_Edge_A_Power>
+						<Mutable_Ref_Blur_Rate_Threshold>0.95</Mutable_Ref_Blur_Rate_Threshold>
+						<Mutable_Edge_k_Radius_Lr>1.0</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
-						<Mutable_MotionLevelStrength1>1.100000</Mutable_MotionLevelStrength1>
-						<Mutable_MotionLevelStrength2>0.400000</Mutable_MotionLevelStrength2>
-						<Mutable_MotionLevelStrength3>0.400000</Mutable_MotionLevelStrength3>
-						<Mutable_MotionLevelStrength4>0.100000</Mutable_MotionLevelStrength4>
-						<Mutable_MotionLevelStrength5>0.100000</Mutable_MotionLevelStrength5>
+						<Mutable_LevelStrength1>1.4</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.2</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>1.2</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.2</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.2</Mutable_LevelStrength5>
+						<Mutable_MotionLevelStrength1>1.1</Mutable_MotionLevelStrength1>
+						<Mutable_MotionLevelStrength2>0.4</Mutable_MotionLevelStrength2>
+						<Mutable_MotionLevelStrength3>0.4</Mutable_MotionLevelStrength3>
+						<Mutable_MotionLevelStrength4>0.1</Mutable_MotionLevelStrength4>
+						<Mutable_MotionLevelStrength5>0.1</Mutable_MotionLevelStrength5>
 					</UVDnoise>
 					<InnerDimension>
-						<Mutable_ImplementScale>2.000000</Mutable_ImplementScale>
-						<Mutable_Div_Block_Num_X>1</Mutable_Div_Block_Num_X>
-						<Mutable_Div_Block_Num_Y>6</Mutable_Div_Block_Num_Y>
-						<Mutable_Div_Half_OverLap>6</Mutable_Div_Half_OverLap>
+						<Mutable_ImplementScale>2.0</Mutable_ImplementScale>
+						<Mutable_Div_Block_Num_X>1.0</Mutable_Div_Block_Num_X>
+						<Mutable_Div_Block_Num_Y>6.0</Mutable_Div_Block_Num_Y>
+						<Mutable_Div_Half_OverLap>6.0</Mutable_Div_Half_OverLap>
 					</InnerDimension>
 					<TwoDirecEdgeSmoothParams>
 						<Mutable_TwoDirec_EdgeSmooth_Sigma>20.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
 						<Mutable_TwoDirec_EdgeSmooth_Dilation>1.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
-						<Mutable_TwoDirec_EdgeSmooth_Radius>3</Mutable_TwoDirec_EdgeSmooth_Radius>
+						<Mutable_TwoDirec_EdgeSmooth_Radius>3.0</Mutable_TwoDirec_EdgeSmooth_Radius>
 					</TwoDirecEdgeSmoothParams>
 				</ParamItem>
 				<ParamItem>
@@ -731,8 +731,8 @@
 						<Mutable_EdgeDilate>2.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.4</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>2.500000</Mutable_CtTreshold>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_CtTreshold>2.200000</Mutable_CtTreshold>
 						<Mutable_White_Alpha_Low>0.200000</Mutable_White_Alpha_Low>
 						<Mutable_White_Alpha_High>0.200000</Mutable_White_Alpha_High>
 						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
@@ -747,11 +747,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>1.600000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.200000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.600000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>2.200000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>1.400000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>1.200000</Mutable_MotionLevelStrength3>
@@ -763,6 +763,7 @@
 						<Mutable_Div_Block_Num_X>1</Mutable_Div_Block_Num_X>
 						<Mutable_Div_Block_Num_Y>6</Mutable_Div_Block_Num_Y>
 						<Mutable_Div_Half_OverLap>6</Mutable_Div_Half_OverLap>
+						<Mutable_UV_Saturation_Gain>0.9</Mutable_UV_Saturation_Gain>
 					</InnerDimension>
 					<TwoDirecEdgeSmoothParams>
 						<Mutable_TwoDirec_EdgeSmooth_Sigma>10.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
@@ -785,10 +786,10 @@
 						<Mutable_EdgeDilate>2.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.2</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.500000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.200000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.200000</Mutable_White_Alpha_High>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_CtTreshold>2.000000</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.300000</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.300000</Mutable_White_Alpha_High>
 						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
 						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
 						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
@@ -801,11 +802,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>1.500000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.050000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.450000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>3.100000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>1.600000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>1.050000</Mutable_MotionLevelStrength3>
@@ -840,9 +841,9 @@
 					</ParamSharpness>
 					<DetailYDnoise>
 						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.2</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.500000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.200000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.200000</Mutable_White_Alpha_High>
+						<Mutable_CtTreshold>2.000000</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.300000</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.300000</Mutable_White_Alpha_High>
 						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
 						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
 						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
@@ -855,11 +856,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>2.000000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.400000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.600000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>4.200000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>2.200000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>1.400000</Mutable_MotionLevelStrength3>
@@ -888,13 +889,13 @@
 					</ParamAlignment>
 					<ParamSharpness>
 						<Mutable_EdgeSigma>0.950000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>16.69000</Mutable_EdgeAmount>
+						<Mutable_EdgeAmount>20.69000</Mutable_EdgeAmount>
 						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
 						<Mutable_EdgeDilate>2.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
 						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.2</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.800000</Mutable_CtTreshold>
+						<Mutable_CtTreshold>2.500000</Mutable_CtTreshold>
 						<Mutable_White_Alpha_Low>0.200000</Mutable_White_Alpha_Low>
 						<Mutable_White_Alpha_High>0.200000</Mutable_White_Alpha_High>
 						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
@@ -909,11 +910,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>1.900000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.200000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.750000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.300000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>3.100000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>1.600000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>1.050000</Mutable_MotionLevelStrength3>
@@ -938,19 +939,19 @@
 						<Mutable_SharpBoxFilterRadius>1</Mutable_SharpBoxFilterRadius>
 						<Mutable_SharpGradientThresh>8</Mutable_SharpGradientThresh>
 						<Mutable_ModelRefMaskThresh>24</Mutable_ModelRefMaskThresh>
-						<Mutable_AlignMask_Threshold>16</Mutable_AlignMask_Threshold>
+						<Mutable_AlignMask_Threshold>30</Mutable_AlignMask_Threshold>
 					</ParamAlignment>
 					<ParamSharpness>
 						<Mutable_EdgeSigma>0.850000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>19.160000</Mutable_EdgeAmount>
+						<Mutable_EdgeAmount>19.760000</Mutable_EdgeAmount>
 						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
 						<Mutable_EdgeDilate>2.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
 						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.00000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.200000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.200000</Mutable_White_Alpha_High>
+						<Mutable_CtTreshold>3.000000</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.300000</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.300000</Mutable_White_Alpha_High>
 						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
 						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
 						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
@@ -963,11 +964,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>7.200000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>5.100000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>1.300000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>18.000000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>12.000000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>4.500000</Mutable_MotionLevelStrength3>
@@ -989,55 +990,55 @@
 				<ParamItem>
 					<MatchMaxIso>10000</MatchMaxIso>
 					<ParamAlignment>
-						<Mutable_SharpBoxFilterRadius>1</Mutable_SharpBoxFilterRadius>
-						<Mutable_SharpGradientThresh>8</Mutable_SharpGradientThresh>
-						<Mutable_ModelRefMaskThresh>30</Mutable_ModelRefMaskThresh>
-						<Mutable_AlignMask_Threshold>24</Mutable_AlignMask_Threshold>
+						<Mutable_SharpBoxFilterRadius>1.0</Mutable_SharpBoxFilterRadius>
+						<Mutable_SharpGradientThresh>8.0</Mutable_SharpGradientThresh>
+						<Mutable_ModelRefMaskThresh>30.0</Mutable_ModelRefMaskThresh>
+						<Mutable_AlignMask_Threshold>30.0</Mutable_AlignMask_Threshold>
 					</ParamAlignment>
 					<ParamSharpness>
-						<Mutable_EdgeSigma>0.850000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>14.799999</Mutable_EdgeAmount>
-						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
-						<Mutable_EdgeDilate>2.000000</Mutable_EdgeDilate>
+						<Mutable_EdgeSigma>0.85</Mutable_EdgeSigma>
+						<Mutable_EdgeAmount>13.79</Mutable_EdgeAmount>
+						<Mutable_CgIncrease>0.0</Mutable_CgIncrease>
+						<Mutable_EdgeDilate>2.0</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.4</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.500000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.200000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.200000</Mutable_White_Alpha_High>
-						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
-						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
-						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
-						<Mutable_Edge_K_Shrink>1.000000</Mutable_Edge_K_Shrink>
-						<Mutable_Edge_A_Sigma>0.020000</Mutable_Edge_A_Sigma>
-						<Mutable_Edge_A_Thresh>0.010000</Mutable_Edge_A_Thresh>
-						<Mutable_Edge_K_Denoise>0.500000</Mutable_Edge_K_Denoise>
-						<Mutable_Edge_A_Power>4</Mutable_Edge_A_Power>
-						<Mutable_Ref_Blur_Rate_Threshold>0.950000</Mutable_Ref_Blur_Rate_Threshold>
-						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.2</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_CtTreshold>8.0</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.2</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.2</Mutable_White_Alpha_High>
+						<Mutable_Edge_K_Radius>1.0</Mutable_Edge_K_Radius>
+						<Mutable_Edge_K_Detail>0.02</Mutable_Edge_K_Detail>
+						<Mutable_Edge_K_Stretch>4.0</Mutable_Edge_K_Stretch>
+						<Mutable_Edge_K_Shrink>1.0</Mutable_Edge_K_Shrink>
+						<Mutable_Edge_A_Sigma>0.02</Mutable_Edge_A_Sigma>
+						<Mutable_Edge_A_Thresh>0.01</Mutable_Edge_A_Thresh>
+						<Mutable_Edge_K_Denoise>0.5</Mutable_Edge_K_Denoise>
+						<Mutable_Edge_A_Power>4.0</Mutable_Edge_A_Power>
+						<Mutable_Ref_Blur_Rate_Threshold>0.95</Mutable_Ref_Blur_Rate_Threshold>
+						<Mutable_Edge_k_Radius_Lr>1.0</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
-						<Mutable_MotionLevelStrength1>12.000000</Mutable_MotionLevelStrength1>
-						<Mutable_MotionLevelStrength2>10.000000</Mutable_MotionLevelStrength2>
-						<Mutable_MotionLevelStrength3>4.000000</Mutable_MotionLevelStrength3>
-						<Mutable_MotionLevelStrength4>2.200000</Mutable_MotionLevelStrength4>
-						<Mutable_MotionLevelStrength5>1.500000</Mutable_MotionLevelStrength5>
+						<Mutable_LevelStrength1>5.0</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>2.0</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>1.6</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.2</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.2</Mutable_LevelStrength5>
+						<Mutable_MotionLevelStrength1>12.0</Mutable_MotionLevelStrength1>
+						<Mutable_MotionLevelStrength2>10.0</Mutable_MotionLevelStrength2>
+						<Mutable_MotionLevelStrength3>4.0</Mutable_MotionLevelStrength3>
+						<Mutable_MotionLevelStrength4>2.2</Mutable_MotionLevelStrength4>
+						<Mutable_MotionLevelStrength5>1.5</Mutable_MotionLevelStrength5>
 					</UVDnoise>
 					<InnerDimension>
-						<Mutable_ImplementScale>2.000000</Mutable_ImplementScale>
-						<Mutable_Div_Block_Num_X>1</Mutable_Div_Block_Num_X>
-						<Mutable_Div_Block_Num_Y>6</Mutable_Div_Block_Num_Y>
-						<Mutable_Div_Half_OverLap>6</Mutable_Div_Half_OverLap>
+						<Mutable_ImplementScale>2.0</Mutable_ImplementScale>
+						<Mutable_Div_Block_Num_X>1.0</Mutable_Div_Block_Num_X>
+						<Mutable_Div_Block_Num_Y>6.0</Mutable_Div_Block_Num_Y>
+						<Mutable_Div_Half_OverLap>6.0</Mutable_Div_Half_OverLap>
 					</InnerDimension>
 					<TwoDirecEdgeSmoothParams>
-						<Mutable_TwoDirec_EdgeSmooth_Sigma>20.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
-						<Mutable_TwoDirec_EdgeSmooth_Dilation>1.2</Mutable_TwoDirec_EdgeSmooth_Dilation>
-						<Mutable_TwoDirec_EdgeSmooth_Radius>3</Mutable_TwoDirec_EdgeSmooth_Radius>
+						<Mutable_TwoDirec_EdgeSmooth_Sigma>10.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
+						<Mutable_TwoDirec_EdgeSmooth_Dilation>1.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
+						<Mutable_TwoDirec_EdgeSmooth_Radius>2.0</Mutable_TwoDirec_EdgeSmooth_Radius>
 					</TwoDirecEdgeSmoothParams>
 				</ParamItem>
 				<ParamItem>
@@ -1046,19 +1047,19 @@
 						<Mutable_SharpBoxFilterRadius>1</Mutable_SharpBoxFilterRadius>
 						<Mutable_SharpGradientThresh>8</Mutable_SharpGradientThresh>
 						<Mutable_ModelRefMaskThresh>30</Mutable_ModelRefMaskThresh>
-						<Mutable_AlignMask_Threshold>32</Mutable_AlignMask_Threshold>
+						<Mutable_AlignMask_Threshold>12</Mutable_AlignMask_Threshold>
 					</ParamAlignment>
 					<ParamSharpness>
 						<Mutable_EdgeSigma>0.850000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>12.799999</Mutable_EdgeAmount>
+						<Mutable_EdgeAmount>16.799999</Mutable_EdgeAmount>
 						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
 						<Mutable_EdgeDilate>2.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
 						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>2.500000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.200000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.200000</Mutable_White_Alpha_High>
+						<Mutable_CtTreshold>5.500000</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.300000</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.300000</Mutable_White_Alpha_High>
 						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
 						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
 						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
@@ -1071,11 +1072,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>18.000000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>7.500000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>4.000000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>1.800000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>1.800000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>36.000000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>30.000000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>12.000000</Mutable_MotionLevelStrength3>
@@ -1116,7 +1117,7 @@
 						<Mutable_EdgeDilate>2.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
 						<Mutable_CtTreshold>2.000000</Mutable_CtTreshold>
 						<Mutable_White_Alpha_Low>0.300000</Mutable_White_Alpha_Low>
 						<Mutable_White_Alpha_High>0.300000</Mutable_White_Alpha_High>
@@ -1132,11 +1133,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>0.680000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>0.560000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.320000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.200000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>1.400000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>0.560000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>0.680000</Mutable_MotionLevelStrength3>
@@ -1170,7 +1171,7 @@
 						<Mutable_EdgeDilate>2.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
 						<Mutable_CtTreshold>2.000000</Mutable_CtTreshold>
 						<Mutable_White_Alpha_Low>0.300000</Mutable_White_Alpha_Low>
 						<Mutable_White_Alpha_High>0.300000</Mutable_White_Alpha_High>
@@ -1186,11 +1187,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>1.800000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.200000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.900000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.100000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>3.300000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>1.200000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>1.200000</Mutable_MotionLevelStrength3>
@@ -1224,7 +1225,7 @@
 						<Mutable_EdgeDilate>2.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.2</Mutable_Spec_ModelFineTune_DenoiseStrength>
 						<Mutable_CtTreshold>2.200000</Mutable_CtTreshold>
 						<Mutable_White_Alpha_Low>0.200000</Mutable_White_Alpha_Low>
 						<Mutable_White_Alpha_High>0.200000</Mutable_White_Alpha_High>
@@ -1240,11 +1241,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>1.200000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>0.800000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.600000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.100000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>1.100000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>0.400000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>0.400000</Mutable_MotionLevelStrength3>
@@ -1278,7 +1279,7 @@
 						<Mutable_EdgeDilate>2.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
 						<Mutable_CtTreshold>2.200000</Mutable_CtTreshold>
 						<Mutable_White_Alpha_Low>0.200000</Mutable_White_Alpha_Low>
 						<Mutable_White_Alpha_High>0.200000</Mutable_White_Alpha_High>
@@ -1294,11 +1295,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>1.600000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.200000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.600000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>2.200000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>1.400000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>1.200000</Mutable_MotionLevelStrength3>
@@ -1332,7 +1333,7 @@
 						<Mutable_EdgeDilate>2.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
 						<Mutable_CtTreshold>2.000000</Mutable_CtTreshold>
 						<Mutable_White_Alpha_Low>0.300000</Mutable_White_Alpha_Low>
 						<Mutable_White_Alpha_High>0.300000</Mutable_White_Alpha_High>
@@ -1348,11 +1349,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>1.500000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.050000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.450000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>3.100000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>1.600000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>1.050000</Mutable_MotionLevelStrength3>
@@ -1402,11 +1403,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>2.000000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.400000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.600000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>4.200000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>2.200000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>1.400000</Mutable_MotionLevelStrength3>
@@ -1456,11 +1457,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>1.900000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.200000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.750000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.300000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>3.100000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>1.600000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>1.050000</Mutable_MotionLevelStrength3>
@@ -1510,11 +1511,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>7.200000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>5.100000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>1.300000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>18.000000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>12.000000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>4.500000</Mutable_MotionLevelStrength3>
@@ -1564,11 +1565,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>5.000000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>2.000000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>1.600000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.200000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>12.000000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>10.000000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>4.000000</Mutable_MotionLevelStrength3>
@@ -1618,11 +1619,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>18.000000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>7.500000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>4.000000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>1.800000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>1.800000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>36.000000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>30.000000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>12.000000</Mutable_MotionLevelStrength3>
@@ -1663,7 +1664,7 @@
 						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
 						<Mutable_CtTreshold>2.000000</Mutable_CtTreshold>
 						<Mutable_White_Alpha_Low>0.300000</Mutable_White_Alpha_Low>
 						<Mutable_White_Alpha_High>0.300000</Mutable_White_Alpha_High>
@@ -1679,11 +1680,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>0.780000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>0.660000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.420000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.300000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.300000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>1.500000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>0.660000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>0.780000</Mutable_MotionLevelStrength3>
@@ -1717,7 +1718,7 @@
 						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
 						<Mutable_CtTreshold>2.000000</Mutable_CtTreshold>
 						<Mutable_White_Alpha_Low>0.300000</Mutable_White_Alpha_Low>
 						<Mutable_White_Alpha_High>0.300000</Mutable_White_Alpha_High>
@@ -1733,11 +1734,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>0.680000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>0.560000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.320000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.200000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>1.400000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>0.560000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>0.680000</Mutable_MotionLevelStrength3>
@@ -1771,7 +1772,7 @@
 						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
 						<Mutable_CtTreshold>2.000000</Mutable_CtTreshold>
 						<Mutable_White_Alpha_Low>0.300000</Mutable_White_Alpha_Low>
 						<Mutable_White_Alpha_High>0.300000</Mutable_White_Alpha_High>
@@ -1787,11 +1788,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>0.700000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>0.500000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.400000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.200000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>1.200000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>0.500000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>0.500000</Mutable_MotionLevelStrength3>
@@ -1825,7 +1826,7 @@
 						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.2</Mutable_Spec_ModelFineTune_DenoiseStrength>
 						<Mutable_CtTreshold>1.400000</Mutable_CtTreshold>
 						<Mutable_White_Alpha_Low>0.300000</Mutable_White_Alpha_Low>
 						<Mutable_White_Alpha_High>0.300000</Mutable_White_Alpha_High>
@@ -1841,11 +1842,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>1.200000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>0.800000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.600000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.100000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>2.200000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>0.800000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>0.800000</Mutable_MotionLevelStrength3>
@@ -1867,55 +1868,55 @@
 				<ParamItem>
 					<MatchMaxIso>530</MatchMaxIso>
 					<ParamAlignment>
-						<Mutable_SharpBoxFilterRadius>1</Mutable_SharpBoxFilterRadius>
-						<Mutable_SharpGradientThresh>6</Mutable_SharpGradientThresh>
-						<Mutable_ModelRefMaskThresh>12</Mutable_ModelRefMaskThresh>
-						<Mutable_AlignMask_Threshold>16</Mutable_AlignMask_Threshold>
+						<Mutable_SharpBoxFilterRadius>1.0</Mutable_SharpBoxFilterRadius>
+						<Mutable_SharpGradientThresh>6.0</Mutable_SharpGradientThresh>
+						<Mutable_ModelRefMaskThresh>12.0</Mutable_ModelRefMaskThresh>
+						<Mutable_AlignMask_Threshold>16.0</Mutable_AlignMask_Threshold>
 					</ParamAlignment>
 					<ParamSharpness>
-						<Mutable_EdgeSigma>0.950000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>12.730000</Mutable_EdgeAmount>
-						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
-						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
+						<Mutable_EdgeSigma>0.95</Mutable_EdgeSigma>
+						<Mutable_EdgeAmount>15.73</Mutable_EdgeAmount>
+						<Mutable_CgIncrease>0.0</Mutable_CgIncrease>
+						<Mutable_EdgeDilate>4.0</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.800000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.200000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.200000</Mutable_White_Alpha_High>
-						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
-						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
-						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
-						<Mutable_Edge_K_Shrink>1.000000</Mutable_Edge_K_Shrink>
-						<Mutable_Edge_A_Sigma>0.020000</Mutable_Edge_A_Sigma>
-						<Mutable_Edge_A_Thresh>0.010000</Mutable_Edge_A_Thresh>
-						<Mutable_Edge_K_Denoise>0.500000</Mutable_Edge_K_Denoise>
-						<Mutable_Edge_A_Power>4</Mutable_Edge_A_Power>
-						<Mutable_Ref_Blur_Rate_Threshold>0.950000</Mutable_Ref_Blur_Rate_Threshold>
-						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.2</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_CtTreshold>4</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.15</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.15</Mutable_White_Alpha_High>
+						<Mutable_Edge_K_Radius>1.0</Mutable_Edge_K_Radius>
+						<Mutable_Edge_K_Detail>0.02</Mutable_Edge_K_Detail>
+						<Mutable_Edge_K_Stretch>4.0</Mutable_Edge_K_Stretch>
+						<Mutable_Edge_K_Shrink>1.0</Mutable_Edge_K_Shrink>
+						<Mutable_Edge_A_Sigma>0.02</Mutable_Edge_A_Sigma>
+						<Mutable_Edge_A_Thresh>0.01</Mutable_Edge_A_Thresh>
+						<Mutable_Edge_K_Denoise>0.5</Mutable_Edge_K_Denoise>
+						<Mutable_Edge_A_Power>4.0</Mutable_Edge_A_Power>
+						<Mutable_Ref_Blur_Rate_Threshold>0.95</Mutable_Ref_Blur_Rate_Threshold>
+						<Mutable_Edge_k_Radius_Lr>1.0</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
-						<Mutable_MotionLevelStrength1>1.100000</Mutable_MotionLevelStrength1>
-						<Mutable_MotionLevelStrength2>0.700000</Mutable_MotionLevelStrength2>
-						<Mutable_MotionLevelStrength3>0.600000</Mutable_MotionLevelStrength3>
-						<Mutable_MotionLevelStrength4>0.200000</Mutable_MotionLevelStrength4>
-						<Mutable_MotionLevelStrength5>0.100000</Mutable_MotionLevelStrength5>
+						<Mutable_LevelStrength1>1.0</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>0.8</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.5</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.2</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.1</Mutable_LevelStrength5>
+						<Mutable_MotionLevelStrength1>1.1</Mutable_MotionLevelStrength1>
+						<Mutable_MotionLevelStrength2>0.7</Mutable_MotionLevelStrength2>
+						<Mutable_MotionLevelStrength3>0.6</Mutable_MotionLevelStrength3>
+						<Mutable_MotionLevelStrength4>0.2</Mutable_MotionLevelStrength4>
+						<Mutable_MotionLevelStrength5>0.1</Mutable_MotionLevelStrength5>
 					</UVDnoise>
 					<InnerDimension>
-						<Mutable_ImplementScale>4.000000</Mutable_ImplementScale>
-						<Mutable_Div_Block_Num_X>1</Mutable_Div_Block_Num_X>
-						<Mutable_Div_Block_Num_Y>6</Mutable_Div_Block_Num_Y>
-						<Mutable_Div_Half_OverLap>6</Mutable_Div_Half_OverLap>
+						<Mutable_ImplementScale>4.0</Mutable_ImplementScale>
+						<Mutable_Div_Block_Num_X>1.0</Mutable_Div_Block_Num_X>
+						<Mutable_Div_Block_Num_Y>6.0</Mutable_Div_Block_Num_Y>
+						<Mutable_Div_Half_OverLap>6.0</Mutable_Div_Half_OverLap>
 					</InnerDimension>
 					<TwoDirecEdgeSmoothParams>
 						<Mutable_TwoDirec_EdgeSmooth_Sigma>10.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
-						<Mutable_TwoDirec_EdgeSmooth_Dilation>1.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
-						<Mutable_TwoDirec_EdgeSmooth_Radius>1</Mutable_TwoDirec_EdgeSmooth_Radius>
+						<Mutable_TwoDirec_EdgeSmooth_Dilation>2.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
+						<Mutable_TwoDirec_EdgeSmooth_Radius>3.0</Mutable_TwoDirec_EdgeSmooth_Radius>
 					</TwoDirecEdgeSmoothParams>
 				</ParamItem>
 				<ParamItem>
@@ -1933,7 +1934,7 @@
 						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.2</Mutable_Spec_ModelFineTune_DenoiseStrength>
 						<Mutable_CtTreshold>1.500000</Mutable_CtTreshold>
 						<Mutable_White_Alpha_Low>0.200000</Mutable_White_Alpha_Low>
 						<Mutable_White_Alpha_High>0.200000</Mutable_White_Alpha_High>
@@ -1949,11 +1950,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>1.500000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.050000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.450000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>3.100000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>1.600000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>1.050000</Mutable_MotionLevelStrength3>
@@ -1982,9 +1983,9 @@
 					</ParamAlignment>
 					<ParamSharpness>
 						<Mutable_EdgeSigma>0.650000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>8.730000</Mutable_EdgeAmount>
+						<Mutable_EdgeAmount>11.730000</Mutable_EdgeAmount>
 						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
-						<Mutable_EdgeDilate>6.000000</Mutable_EdgeDilate>
+						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
 						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
@@ -2003,11 +2004,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>1.000000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>0.700000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.300000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>2.100000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>1.100000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>0.700000</Mutable_MotionLevelStrength3>
@@ -2057,11 +2058,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>2.600000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.900000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>1.000000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.300000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>4.200000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>2.200000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>1.400000</Mutable_MotionLevelStrength3>
@@ -2083,55 +2084,55 @@
 				<ParamItem>
 					<MatchMaxIso>3000</MatchMaxIso>
 					<ParamAlignment>
-						<Mutable_SharpBoxFilterRadius>1</Mutable_SharpBoxFilterRadius>
-						<Mutable_SharpGradientThresh>8</Mutable_SharpGradientThresh>
-						<Mutable_ModelRefMaskThresh>24</Mutable_ModelRefMaskThresh>
-						<Mutable_AlignMask_Threshold>24</Mutable_AlignMask_Threshold>
+						<Mutable_SharpBoxFilterRadius>1.0</Mutable_SharpBoxFilterRadius>
+						<Mutable_SharpGradientThresh>8.0</Mutable_SharpGradientThresh>
+						<Mutable_ModelRefMaskThresh>24.0</Mutable_ModelRefMaskThresh>
+						<Mutable_AlignMask_Threshold>24.0</Mutable_AlignMask_Threshold>
 					</ParamAlignment>
 					<ParamSharpness>
-						<Mutable_EdgeSigma>0.850000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>10.760000</Mutable_EdgeAmount>
-						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
-						<Mutable_EdgeDilate>6.000000</Mutable_EdgeDilate>
+						<Mutable_EdgeSigma>0.85</Mutable_EdgeSigma>
+						<Mutable_EdgeAmount>25.76</Mutable_EdgeAmount>
+						<Mutable_CgIncrease>0.0</Mutable_CgIncrease>
+						<Mutable_EdgeDilate>4.0</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.500000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.300000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.300000</Mutable_White_Alpha_High>
-						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
-						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
-						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
-						<Mutable_Edge_K_Shrink>1.000000</Mutable_Edge_K_Shrink>
-						<Mutable_Edge_A_Sigma>0.020000</Mutable_Edge_A_Sigma>
-						<Mutable_Edge_A_Thresh>0.010000</Mutable_Edge_A_Thresh>
-						<Mutable_Edge_K_Denoise>0.500000</Mutable_Edge_K_Denoise>
-						<Mutable_Edge_A_Power>4</Mutable_Edge_A_Power>
-						<Mutable_Ref_Blur_Rate_Threshold>0.950000</Mutable_Ref_Blur_Rate_Threshold>
-						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.5</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_CtTreshold>1.5</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.26</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.26</Mutable_White_Alpha_High>
+						<Mutable_Edge_K_Radius>1.0</Mutable_Edge_K_Radius>
+						<Mutable_Edge_K_Detail>0.02</Mutable_Edge_K_Detail>
+						<Mutable_Edge_K_Stretch>4.0</Mutable_Edge_K_Stretch>
+						<Mutable_Edge_K_Shrink>1.0</Mutable_Edge_K_Shrink>
+						<Mutable_Edge_A_Sigma>0.02</Mutable_Edge_A_Sigma>
+						<Mutable_Edge_A_Thresh>0.01</Mutable_Edge_A_Thresh>
+						<Mutable_Edge_K_Denoise>0.5</Mutable_Edge_K_Denoise>
+						<Mutable_Edge_A_Power>4.0</Mutable_Edge_A_Power>
+						<Mutable_Ref_Blur_Rate_Threshold>0.95</Mutable_Ref_Blur_Rate_Threshold>
+						<Mutable_Edge_k_Radius_Lr>1.0</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
+						<Mutable_LevelStrength1>3.2</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.8</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.6</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.5</Mutable_LevelStrength4>
 						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
-						<Mutable_MotionLevelStrength1>12.000000</Mutable_MotionLevelStrength1>
-						<Mutable_MotionLevelStrength2>8.000000</Mutable_MotionLevelStrength2>
-						<Mutable_MotionLevelStrength3>3.000000</Mutable_MotionLevelStrength3>
-						<Mutable_MotionLevelStrength4>1.000000</Mutable_MotionLevelStrength4>
-						<Mutable_MotionLevelStrength5>0.000000</Mutable_MotionLevelStrength5>
+						<Mutable_MotionLevelStrength1>12.0</Mutable_MotionLevelStrength1>
+						<Mutable_MotionLevelStrength2>8.0</Mutable_MotionLevelStrength2>
+						<Mutable_MotionLevelStrength3>3.0</Mutable_MotionLevelStrength3>
+						<Mutable_MotionLevelStrength4>1.0</Mutable_MotionLevelStrength4>
+						<Mutable_MotionLevelStrength5>0.0</Mutable_MotionLevelStrength5>
 					</UVDnoise>
 					<InnerDimension>
-						<Mutable_ImplementScale>4.000000</Mutable_ImplementScale>
-						<Mutable_Div_Block_Num_X>1</Mutable_Div_Block_Num_X>
-						<Mutable_Div_Block_Num_Y>6</Mutable_Div_Block_Num_Y>
-						<Mutable_Div_Half_OverLap>6</Mutable_Div_Half_OverLap>
+						<Mutable_ImplementScale>4.0</Mutable_ImplementScale>
+						<Mutable_Div_Block_Num_X>1.0</Mutable_Div_Block_Num_X>
+						<Mutable_Div_Block_Num_Y>6.0</Mutable_Div_Block_Num_Y>
+						<Mutable_Div_Half_OverLap>6.0</Mutable_Div_Half_OverLap>
 					</InnerDimension>
 					<TwoDirecEdgeSmoothParams>
 						<Mutable_TwoDirec_EdgeSmooth_Sigma>10.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
-						<Mutable_TwoDirec_EdgeSmooth_Dilation>1.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
-						<Mutable_TwoDirec_EdgeSmooth_Radius>2</Mutable_TwoDirec_EdgeSmooth_Radius>
+						<Mutable_TwoDirec_EdgeSmooth_Dilation>2.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
+						<Mutable_TwoDirec_EdgeSmooth_Radius>3.0</Mutable_TwoDirec_EdgeSmooth_Radius>
 					</TwoDirecEdgeSmoothParams>
 				</ParamItem>
 				<ParamItem>
@@ -2165,11 +2166,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>4.290000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.880000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>1.070000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.800000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.330000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>6.430000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>5.360000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>2.150000</Mutable_MotionLevelStrength3>
@@ -2198,15 +2199,15 @@
 					</ParamAlignment>
 					<ParamSharpness>
 						<Mutable_EdgeSigma>0.850000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>16.799999</Mutable_EdgeAmount>
+						<Mutable_EdgeAmount>10.799999</Mutable_EdgeAmount>
 						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
 						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
 						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.4</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>5.000000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.200000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.200000</Mutable_White_Alpha_High>
+						<Mutable_CtTreshold>10.000000</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.0500000</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.0500000</Mutable_White_Alpha_High>
 						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
 						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
 						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
@@ -2219,11 +2220,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>18.000000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>7.500000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>4.500000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>4.500000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>1.800000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>27.000000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>22.500000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>9.000000</Mutable_MotionLevelStrength3>
@@ -2238,8 +2239,8 @@
 					</InnerDimension>
 					<TwoDirecEdgeSmoothParams>
 						<Mutable_TwoDirec_EdgeSmooth_Sigma>10.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
-						<Mutable_TwoDirec_EdgeSmooth_Dilation>1.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
-						<Mutable_TwoDirec_EdgeSmooth_Radius>2</Mutable_TwoDirec_EdgeSmooth_Radius>
+						<Mutable_TwoDirec_EdgeSmooth_Dilation>4.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
+						<Mutable_TwoDirec_EdgeSmooth_Radius>3</Mutable_TwoDirec_EdgeSmooth_Radius>
 					</TwoDirecEdgeSmoothParams>
 				</ParamItem>
 			</ParamsArray>
@@ -2259,15 +2260,15 @@
 					</ParamAlignment>
 					<ParamSharpness>
 						<Mutable_EdgeSigma>0.850000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>12.730000</Mutable_EdgeAmount>
+						<Mutable_EdgeAmount>10.730000</Mutable_EdgeAmount>
 						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
 						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>-0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.200000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.150000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.150000</Mutable_White_Alpha_High>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.2</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_CtTreshold>2.000000</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.240000</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.240000</Mutable_White_Alpha_High>
 						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
 						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
 						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
@@ -2280,11 +2281,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>1.170000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>0.990000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.630000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.300000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.300000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>1.500000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>0.660000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>0.780000</Mutable_MotionLevelStrength3>
@@ -2298,9 +2299,9 @@
 						<Mutable_Div_Half_OverLap>6</Mutable_Div_Half_OverLap>
 					</InnerDimension>
 					<TwoDirecEdgeSmoothParams>
-						<Mutable_TwoDirec_EdgeSmooth_Sigma>10.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
-						<Mutable_TwoDirec_EdgeSmooth_Dilation>1.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
-						<Mutable_TwoDirec_EdgeSmooth_Radius>1</Mutable_TwoDirec_EdgeSmooth_Radius>
+						<Mutable_TwoDirec_EdgeSmooth_Sigma>5.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
+						<Mutable_TwoDirec_EdgeSmooth_Dilation>3.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
+						<Mutable_TwoDirec_EdgeSmooth_Radius>2</Mutable_TwoDirec_EdgeSmooth_Radius>
 					</TwoDirecEdgeSmoothParams>
 				</ParamItem>
 				<ParamItem>
@@ -2318,10 +2319,10 @@
 						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.500000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.150000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.150000</Mutable_White_Alpha_High>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.2</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_CtTreshold>2.000000</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.300000</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.300000</Mutable_White_Alpha_High>
 						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
 						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
 						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
@@ -2334,11 +2335,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>0.680000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>0.560000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.320000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.200000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>1.400000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>0.560000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>0.680000</Mutable_MotionLevelStrength3>
@@ -2372,10 +2373,10 @@
 						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.500000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.150000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.150000</Mutable_White_Alpha_High>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.2</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_CtTreshold>2.000000</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.400000</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.400000</Mutable_White_Alpha_High>
 						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
 						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
 						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
@@ -2388,11 +2389,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>0.700000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>0.500000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.400000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.200000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>1.200000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>0.500000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>0.500000</Mutable_MotionLevelStrength3>
@@ -2428,8 +2429,8 @@
 					<DetailYDnoise>
 						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.2</Mutable_Spec_ModelFineTune_DenoiseStrength>
 						<Mutable_CtTreshold>1.400000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.150000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.150000</Mutable_White_Alpha_High>
+						<Mutable_White_Alpha_Low>0.300000</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.300000</Mutable_White_Alpha_High>
 						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
 						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
 						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
@@ -2442,11 +2443,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>1.200000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>0.800000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.600000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.100000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>2.200000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>0.800000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>0.800000</Mutable_MotionLevelStrength3>
@@ -2468,109 +2469,110 @@
 				<ParamItem>
 					<MatchMaxIso>530</MatchMaxIso>
 					<ParamAlignment>
-						<Mutable_SharpBoxFilterRadius>1</Mutable_SharpBoxFilterRadius>
-						<Mutable_SharpGradientThresh>6</Mutable_SharpGradientThresh>
-						<Mutable_ModelRefMaskThresh>12</Mutable_ModelRefMaskThresh>
-						<Mutable_AlignMask_Threshold>16</Mutable_AlignMask_Threshold>
+						<Mutable_SharpBoxFilterRadius>1.0</Mutable_SharpBoxFilterRadius>
+						<Mutable_SharpGradientThresh>6.0</Mutable_SharpGradientThresh>
+						<Mutable_ModelRefMaskThresh>12.0</Mutable_ModelRefMaskThresh>
+						<Mutable_AlignMask_Threshold>16.0</Mutable_AlignMask_Threshold>
 					</ParamAlignment>
 					<ParamSharpness>
-						<Mutable_EdgeSigma>0.950000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>12.730000</Mutable_EdgeAmount>
-						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
-						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
+						<Mutable_EdgeSigma>0.95</Mutable_EdgeSigma>
+						<Mutable_EdgeAmount>22.73</Mutable_EdgeAmount>
+						<Mutable_CgIncrease>0.0</Mutable_CgIncrease>
+						<Mutable_EdgeDilate>4.0</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
 						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>2.200000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.150000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.150000</Mutable_White_Alpha_High>
-						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
-						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
-						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
-						<Mutable_Edge_K_Shrink>1.000000</Mutable_Edge_K_Shrink>
-						<Mutable_Edge_A_Sigma>0.020000</Mutable_Edge_A_Sigma>
-						<Mutable_Edge_A_Thresh>0.010000</Mutable_Edge_A_Thresh>
-						<Mutable_Edge_K_Denoise>0.500000</Mutable_Edge_K_Denoise>
-						<Mutable_Edge_A_Power>4</Mutable_Edge_A_Power>
-						<Mutable_Ref_Blur_Rate_Threshold>0.950000</Mutable_Ref_Blur_Rate_Threshold>
-						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
+						<Mutable_CtTreshold>4.0</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.3</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.3</Mutable_White_Alpha_High>
+						<Mutable_Edge_K_Radius>1.0</Mutable_Edge_K_Radius>
+						<Mutable_Edge_K_Detail>0.02</Mutable_Edge_K_Detail>
+						<Mutable_Edge_K_Stretch>4.0</Mutable_Edge_K_Stretch>
+						<Mutable_Edge_K_Shrink>1.0</Mutable_Edge_K_Shrink>
+						<Mutable_Edge_A_Sigma>0.02</Mutable_Edge_A_Sigma>
+						<Mutable_Edge_A_Thresh>0.01</Mutable_Edge_A_Thresh>
+						<Mutable_Edge_K_Denoise>0.5</Mutable_Edge_K_Denoise>
+						<Mutable_Edge_A_Power>4.0</Mutable_Edge_A_Power>
+						<Mutable_Ref_Blur_Rate_Threshold>0.95</Mutable_Ref_Blur_Rate_Threshold>
+						<Mutable_Edge_k_Radius_Lr>1.0</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
-						<Mutable_MotionLevelStrength1>1.100000</Mutable_MotionLevelStrength1>
-						<Mutable_MotionLevelStrength2>0.700000</Mutable_MotionLevelStrength2>
-						<Mutable_MotionLevelStrength3>0.600000</Mutable_MotionLevelStrength3>
-						<Mutable_MotionLevelStrength4>0.200000</Mutable_MotionLevelStrength4>
-						<Mutable_MotionLevelStrength5>0.100000</Mutable_MotionLevelStrength5>
+						<Mutable_LevelStrength1>0.8</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>0.6</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.5</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.2</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.2</Mutable_LevelStrength5>
+						<Mutable_MotionLevelStrength1>1.1</Mutable_MotionLevelStrength1>
+						<Mutable_MotionLevelStrength2>0.7</Mutable_MotionLevelStrength2>
+						<Mutable_MotionLevelStrength3>0.6</Mutable_MotionLevelStrength3>
+						<Mutable_MotionLevelStrength4>0.2</Mutable_MotionLevelStrength4>
+						<Mutable_MotionLevelStrength5>0.1</Mutable_MotionLevelStrength5>
 					</UVDnoise>
 					<InnerDimension>
-						<Mutable_ImplementScale>4.000000</Mutable_ImplementScale>
-						<Mutable_Div_Block_Num_X>1</Mutable_Div_Block_Num_X>
-						<Mutable_Div_Block_Num_Y>6</Mutable_Div_Block_Num_Y>
-						<Mutable_Div_Half_OverLap>6</Mutable_Div_Half_OverLap>
+						<Mutable_ImplementScale>4.0</Mutable_ImplementScale>
+						<Mutable_Div_Block_Num_X>1.0</Mutable_Div_Block_Num_X>
+						<Mutable_Div_Block_Num_Y>6.0</Mutable_Div_Block_Num_Y>
+						<Mutable_Div_Half_OverLap>6.0</Mutable_Div_Half_OverLap>
+						<Mutable_UV_Saturation_Gain>1.0</Mutable_UV_Saturation_Gain>
 					</InnerDimension>
 					<TwoDirecEdgeSmoothParams>
 						<Mutable_TwoDirec_EdgeSmooth_Sigma>10.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
-						<Mutable_TwoDirec_EdgeSmooth_Dilation>1.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
-						<Mutable_TwoDirec_EdgeSmooth_Radius>3</Mutable_TwoDirec_EdgeSmooth_Radius>
+						<Mutable_TwoDirec_EdgeSmooth_Dilation>2.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
+						<Mutable_TwoDirec_EdgeSmooth_Radius>3.0</Mutable_TwoDirec_EdgeSmooth_Radius>
 					</TwoDirecEdgeSmoothParams>
 				</ParamItem>
 				<ParamItem>
 					<MatchMaxIso>800</MatchMaxIso>
 					<ParamAlignment>
-						<Mutable_SharpBoxFilterRadius>1</Mutable_SharpBoxFilterRadius>
-						<Mutable_SharpGradientThresh>8</Mutable_SharpGradientThresh>
-						<Mutable_ModelRefMaskThresh>16</Mutable_ModelRefMaskThresh>
-						<Mutable_AlignMask_Threshold>20</Mutable_AlignMask_Threshold>
+						<Mutable_SharpBoxFilterRadius>1.0</Mutable_SharpBoxFilterRadius>
+						<Mutable_SharpGradientThresh>8.0</Mutable_SharpGradientThresh>
+						<Mutable_ModelRefMaskThresh>16.0</Mutable_ModelRefMaskThresh>
+						<Mutable_AlignMask_Threshold>20.0</Mutable_AlignMask_Threshold>
 					</ParamAlignment>
 					<ParamSharpness>
-						<Mutable_EdgeSigma>0.950000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>12.730000</Mutable_EdgeAmount>
-						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
-						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
+						<Mutable_EdgeSigma>0.95</Mutable_EdgeSigma>
+						<Mutable_EdgeAmount>12.73</Mutable_EdgeAmount>
+						<Mutable_CgIncrease>0.0</Mutable_CgIncrease>
+						<Mutable_EdgeDilate>4.0</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.500000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.150000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.150000</Mutable_White_Alpha_High>
-						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
-						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
-						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
-						<Mutable_Edge_K_Shrink>1.000000</Mutable_Edge_K_Shrink>
-						<Mutable_Edge_A_Sigma>0.020000</Mutable_Edge_A_Sigma>
-						<Mutable_Edge_A_Thresh>0.010000</Mutable_Edge_A_Thresh>
-						<Mutable_Edge_K_Denoise>0.500000</Mutable_Edge_K_Denoise>
-						<Mutable_Edge_A_Power>4</Mutable_Edge_A_Power>
-						<Mutable_Ref_Blur_Rate_Threshold>0.950000</Mutable_Ref_Blur_Rate_Threshold>
-						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.2</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_CtTreshold>3</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.1</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.1</Mutable_White_Alpha_High>
+						<Mutable_Edge_K_Radius>1.0</Mutable_Edge_K_Radius>
+						<Mutable_Edge_K_Detail>0.02</Mutable_Edge_K_Detail>
+						<Mutable_Edge_K_Stretch>4.0</Mutable_Edge_K_Stretch>
+						<Mutable_Edge_K_Shrink>1.0</Mutable_Edge_K_Shrink>
+						<Mutable_Edge_A_Sigma>0.02</Mutable_Edge_A_Sigma>
+						<Mutable_Edge_A_Thresh>0.01</Mutable_Edge_A_Thresh>
+						<Mutable_Edge_K_Denoise>0.5</Mutable_Edge_K_Denoise>
+						<Mutable_Edge_A_Power>4.0</Mutable_Edge_A_Power>
+						<Mutable_Ref_Blur_Rate_Threshold>0.95</Mutable_Ref_Blur_Rate_Threshold>
+						<Mutable_Edge_k_Radius_Lr>1.0</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
-						<Mutable_MotionLevelStrength1>3.100000</Mutable_MotionLevelStrength1>
-						<Mutable_MotionLevelStrength2>1.600000</Mutable_MotionLevelStrength2>
-						<Mutable_MotionLevelStrength3>1.050000</Mutable_MotionLevelStrength3>
-						<Mutable_MotionLevelStrength4>0.200000</Mutable_MotionLevelStrength4>
-						<Mutable_MotionLevelStrength5>0.100000</Mutable_MotionLevelStrength5>
+						<Mutable_LevelStrength1>2.0</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.55</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.95</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.5</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.1</Mutable_LevelStrength5>
+						<Mutable_MotionLevelStrength1>3.1</Mutable_MotionLevelStrength1>
+						<Mutable_MotionLevelStrength2>1.6</Mutable_MotionLevelStrength2>
+						<Mutable_MotionLevelStrength3>1.05</Mutable_MotionLevelStrength3>
+						<Mutable_MotionLevelStrength4>0.2</Mutable_MotionLevelStrength4>
+						<Mutable_MotionLevelStrength5>0.1</Mutable_MotionLevelStrength5>
 					</UVDnoise>
 					<InnerDimension>
-						<Mutable_ImplementScale>4.000000</Mutable_ImplementScale>
-						<Mutable_Div_Block_Num_X>1</Mutable_Div_Block_Num_X>
-						<Mutable_Div_Block_Num_Y>6</Mutable_Div_Block_Num_Y>
-						<Mutable_Div_Half_OverLap>6</Mutable_Div_Half_OverLap>
+						<Mutable_ImplementScale>4.0</Mutable_ImplementScale>
+						<Mutable_Div_Block_Num_X>1.0</Mutable_Div_Block_Num_X>
+						<Mutable_Div_Block_Num_Y>6.0</Mutable_Div_Block_Num_Y>
+						<Mutable_Div_Half_OverLap>6.0</Mutable_Div_Half_OverLap>
 					</InnerDimension>
 					<TwoDirecEdgeSmoothParams>
 						<Mutable_TwoDirec_EdgeSmooth_Sigma>10.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
 						<Mutable_TwoDirec_EdgeSmooth_Dilation>1.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
-						<Mutable_TwoDirec_EdgeSmooth_Radius>1</Mutable_TwoDirec_EdgeSmooth_Radius>
+						<Mutable_TwoDirec_EdgeSmooth_Radius>1.0</Mutable_TwoDirec_EdgeSmooth_Radius>
 					</TwoDirecEdgeSmoothParams>
 				</ParamItem>
 				<ParamItem>
@@ -2583,15 +2585,15 @@
 					</ParamAlignment>
 					<ParamSharpness>
 						<Mutable_EdgeSigma>0.650000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>10.730000</Mutable_EdgeAmount>
+						<Mutable_EdgeAmount>8.730000</Mutable_EdgeAmount>
 						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
 						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.000000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.150000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.150000</Mutable_White_Alpha_High>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_CtTreshold>2.000000</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.300000</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.300000</Mutable_White_Alpha_High>
 						<Mutable_Edge_K_Radius>2</Mutable_Edge_K_Radius>
 						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
 						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
@@ -2604,11 +2606,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>1.000000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>0.700000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.300000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>2.100000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>1.100000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>0.700000</Mutable_MotionLevelStrength3>
@@ -2642,10 +2644,10 @@
 						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.2</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.800000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.150000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.150000</Mutable_White_Alpha_High>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_CtTreshold>2.000000</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.200000</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.200000</Mutable_White_Alpha_High>
 						<Mutable_Edge_K_Radius>2</Mutable_Edge_K_Radius>
 						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
 						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
@@ -2658,11 +2660,11 @@
 						<Mutable_Edge_k_Radius_Lr>2</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>2.600000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.900000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>1.000000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.300000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>4.200000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>2.200000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>1.400000</Mutable_MotionLevelStrength3>
@@ -2691,15 +2693,15 @@
 					</ParamAlignment>
 					<ParamSharpness>
 						<Mutable_EdgeSigma>0.850000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>10.760000</Mutable_EdgeAmount>
+						<Mutable_EdgeAmount>15.760000</Mutable_EdgeAmount>
 						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
-						<Mutable_EdgeDilate>6.000000</Mutable_EdgeDilate>
+						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
 						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.500000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.150000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.150000</Mutable_White_Alpha_High>
+						<Mutable_CtTreshold>0.800000</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.250000</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.250000</Mutable_White_Alpha_High>
 						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
 						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
 						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
@@ -2712,11 +2714,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>3.200000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.800000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.600000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.500000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.000000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>12.000000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>8.000000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>3.000000</Mutable_MotionLevelStrength3>
@@ -2736,167 +2738,57 @@
 					</TwoDirecEdgeSmoothParams>
 				</ParamItem>
 				<ParamItem>
-					<MatchMaxIso>4000</MatchMaxIso>
-					<ParamAlignment>
-						<Mutable_SharpBoxFilterRadius>1</Mutable_SharpBoxFilterRadius>
-						<Mutable_SharpGradientThresh>8</Mutable_SharpGradientThresh>
-						<Mutable_ModelRefMaskThresh>30</Mutable_ModelRefMaskThresh>
-						<Mutable_AlignMask_Threshold>24</Mutable_AlignMask_Threshold>
-					</ParamAlignment>
-					<ParamSharpness>
-						<Mutable_EdgeSigma>0.850000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>10.800000</Mutable_EdgeAmount>
-						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
-						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
-					</ParamSharpness>
-					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_Spec_ModelFineTune_Motion_DenoiseStrength>1.8</Mutable_Spec_ModelFineTune_Motion_DenoiseStrength>
-						<Mutable_CtTreshold>1.500000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.120000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.120000</Mutable_White_Alpha_High>
-						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
-						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
-						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
-						<Mutable_Edge_K_Shrink>1.000000</Mutable_Edge_K_Shrink>
-						<Mutable_Edge_A_Sigma>0.020000</Mutable_Edge_A_Sigma>
-						<Mutable_Edge_A_Thresh>0.010000</Mutable_Edge_A_Thresh>
-						<Mutable_Edge_K_Denoise>0.500000</Mutable_Edge_K_Denoise>
-						<Mutable_Edge_A_Power>4</Mutable_Edge_A_Power>
-						<Mutable_Ref_Blur_Rate_Threshold>0.950000</Mutable_Ref_Blur_Rate_Threshold>
-						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
-					</DetailYDnoise>
-					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
-						<Mutable_MotionLevelStrength1>12.430000</Mutable_MotionLevelStrength1>
-						<Mutable_MotionLevelStrength2>8.360000</Mutable_MotionLevelStrength2>
-						<Mutable_MotionLevelStrength3>5.150000</Mutable_MotionLevelStrength3>
-						<Mutable_MotionLevelStrength4>2.600000</Mutable_MotionLevelStrength4>
-						<Mutable_MotionLevelStrength5>2.070000</Mutable_MotionLevelStrength5>
-					</UVDnoise>
-					<InnerDimension>
-						<Mutable_ImplementScale>4.000000</Mutable_ImplementScale>
-						<Mutable_Div_Block_Num_X>1</Mutable_Div_Block_Num_X>
-						<Mutable_Div_Block_Num_Y>6</Mutable_Div_Block_Num_Y>
-						<Mutable_Div_Half_OverLap>6</Mutable_Div_Half_OverLap>
-					</InnerDimension>
-					<TwoDirecEdgeSmoothParams>
-						<Mutable_TwoDirec_EdgeSmooth_Sigma>20.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
-						<Mutable_TwoDirec_EdgeSmooth_Dilation>1.3</Mutable_TwoDirec_EdgeSmooth_Dilation>
-						<Mutable_TwoDirec_EdgeSmooth_Radius>3</Mutable_TwoDirec_EdgeSmooth_Radius>
-					</TwoDirecEdgeSmoothParams>
-				</ParamItem>
-				<ParamItem>
 					<MatchMaxIso>10000</MatchMaxIso>
 					<ParamAlignment>
-						<Mutable_SharpBoxFilterRadius>1</Mutable_SharpBoxFilterRadius>
-						<Mutable_SharpGradientThresh>8</Mutable_SharpGradientThresh>
-						<Mutable_ModelRefMaskThresh>30</Mutable_ModelRefMaskThresh>
-						<Mutable_AlignMask_Threshold>24</Mutable_AlignMask_Threshold>
+						<Mutable_SharpBoxFilterRadius>1.0</Mutable_SharpBoxFilterRadius>
+						<Mutable_SharpGradientThresh>8.0</Mutable_SharpGradientThresh>
+						<Mutable_ModelRefMaskThresh>30.0</Mutable_ModelRefMaskThresh>
+						<Mutable_AlignMask_Threshold>30.0</Mutable_AlignMask_Threshold>
 					</ParamAlignment>
 					<ParamSharpness>
-						<Mutable_EdgeSigma>0.850000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>10.800000</Mutable_EdgeAmount>
-						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
-						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
+						<Mutable_EdgeSigma>0.85</Mutable_EdgeSigma>
+						<Mutable_EdgeAmount>10.8</Mutable_EdgeAmount>
+						<Mutable_CgIncrease>0.0</Mutable_CgIncrease>
+						<Mutable_EdgeDilate>6.0</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.4</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_Spec_ModelFineTune_Motion_DenoiseStrength>1.5</Mutable_Spec_ModelFineTune_Motion_DenoiseStrength>
-						<Mutable_CtTreshold>1.500000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.120000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.120000</Mutable_White_Alpha_High>
-						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
-						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
-						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
-						<Mutable_Edge_K_Shrink>1.000000</Mutable_Edge_K_Shrink>
-						<Mutable_Edge_A_Sigma>0.020000</Mutable_Edge_A_Sigma>
-						<Mutable_Edge_A_Thresh>0.010000</Mutable_Edge_A_Thresh>
-						<Mutable_Edge_K_Denoise>0.500000</Mutable_Edge_K_Denoise>
-						<Mutable_Edge_A_Power>4</Mutable_Edge_A_Power>
-						<Mutable_Ref_Blur_Rate_Threshold>0.950000</Mutable_Ref_Blur_Rate_Threshold>
-						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_CtTreshold>3.5</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.2</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.2</Mutable_White_Alpha_High>
+						<Mutable_Edge_K_Radius>1.0</Mutable_Edge_K_Radius>
+						<Mutable_Edge_K_Detail>0.02</Mutable_Edge_K_Detail>
+						<Mutable_Edge_K_Stretch>4.0</Mutable_Edge_K_Stretch>
+						<Mutable_Edge_K_Shrink>1.0</Mutable_Edge_K_Shrink>
+						<Mutable_Edge_A_Sigma>0.02</Mutable_Edge_A_Sigma>
+						<Mutable_Edge_A_Thresh>0.01</Mutable_Edge_A_Thresh>
+						<Mutable_Edge_K_Denoise>0.5</Mutable_Edge_K_Denoise>
+						<Mutable_Edge_A_Power>4.0</Mutable_Edge_A_Power>
+						<Mutable_Ref_Blur_Rate_Threshold>0.95</Mutable_Ref_Blur_Rate_Threshold>
+						<Mutable_Edge_k_Radius_Lr>1.0</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
-						<Mutable_MotionLevelStrength1>12.430000</Mutable_MotionLevelStrength1>
-						<Mutable_MotionLevelStrength2>8.360000</Mutable_MotionLevelStrength2>
-						<Mutable_MotionLevelStrength3>5.150000</Mutable_MotionLevelStrength3>
-						<Mutable_MotionLevelStrength4>2.600000</Mutable_MotionLevelStrength4>
-						<Mutable_MotionLevelStrength5>2.070000</Mutable_MotionLevelStrength5>
+						<Mutable_LevelStrength1>4.29</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.88</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>1.07</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.8</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.33</Mutable_LevelStrength5>
+						<Mutable_MotionLevelStrength1>6.43</Mutable_MotionLevelStrength1>
+						<Mutable_MotionLevelStrength2>5.36</Mutable_MotionLevelStrength2>
+						<Mutable_MotionLevelStrength3>2.15</Mutable_MotionLevelStrength3>
+						<Mutable_MotionLevelStrength4>1.6</Mutable_MotionLevelStrength4>
+						<Mutable_MotionLevelStrength5>1.07</Mutable_MotionLevelStrength5>
 					</UVDnoise>
 					<InnerDimension>
-						<Mutable_ImplementScale>4.000000</Mutable_ImplementScale>
-						<Mutable_Div_Block_Num_X>1</Mutable_Div_Block_Num_X>
-						<Mutable_Div_Block_Num_Y>6</Mutable_Div_Block_Num_Y>
-						<Mutable_Div_Half_OverLap>6</Mutable_Div_Half_OverLap>
-					</InnerDimension>
-					<TwoDirecEdgeSmoothParams>
-						<Mutable_TwoDirec_EdgeSmooth_Sigma>20.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
-						<Mutable_TwoDirec_EdgeSmooth_Dilation>1.3</Mutable_TwoDirec_EdgeSmooth_Dilation>
-						<Mutable_TwoDirec_EdgeSmooth_Radius>2</Mutable_TwoDirec_EdgeSmooth_Radius>
-					</TwoDirecEdgeSmoothParams>
-				</ParamItem>
-				<ParamItem>
-					<MatchMaxIso>12799</MatchMaxIso>
-					<ParamAlignment>
-						<Mutable_SharpBoxFilterRadius>1</Mutable_SharpBoxFilterRadius>
-						<Mutable_SharpGradientThresh>8</Mutable_SharpGradientThresh>
-						<Mutable_ModelRefMaskThresh>30</Mutable_ModelRefMaskThresh>
-						<Mutable_AlignMask_Threshold>32</Mutable_AlignMask_Threshold>
-					</ParamAlignment>
-					<ParamSharpness>
-						<Mutable_EdgeSigma>0.850000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>12.799999</Mutable_EdgeAmount>
-						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
-						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
-					</ParamSharpness>
-					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.4</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>2.500000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.150000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.150000</Mutable_White_Alpha_High>
-						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
-						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
-						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
-						<Mutable_Edge_K_Shrink>1.000000</Mutable_Edge_K_Shrink>
-						<Mutable_Edge_A_Sigma>0.020000</Mutable_Edge_A_Sigma>
-						<Mutable_Edge_A_Thresh>0.010000</Mutable_Edge_A_Thresh>
-						<Mutable_Edge_K_Denoise>0.500000</Mutable_Edge_K_Denoise>
-						<Mutable_Edge_A_Power>4</Mutable_Edge_A_Power>
-						<Mutable_Ref_Blur_Rate_Threshold>0.950000</Mutable_Ref_Blur_Rate_Threshold>
-						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
-					</DetailYDnoise>
-					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
-						<Mutable_MotionLevelStrength1>27.000000</Mutable_MotionLevelStrength1>
-						<Mutable_MotionLevelStrength2>22.500000</Mutable_MotionLevelStrength2>
-						<Mutable_MotionLevelStrength3>9.000000</Mutable_MotionLevelStrength3>
-						<Mutable_MotionLevelStrength4>9.000000</Mutable_MotionLevelStrength4>
-						<Mutable_MotionLevelStrength5>6.000000</Mutable_MotionLevelStrength5>
-					</UVDnoise>
-					<InnerDimension>
-						<Mutable_ImplementScale>4.000000</Mutable_ImplementScale>
-						<Mutable_Div_Block_Num_X>1</Mutable_Div_Block_Num_X>
-						<Mutable_Div_Block_Num_Y>6</Mutable_Div_Block_Num_Y>
-						<Mutable_Div_Half_OverLap>6</Mutable_Div_Half_OverLap>
+						<Mutable_ImplementScale>4.0</Mutable_ImplementScale>
+						<Mutable_Div_Block_Num_X>1.0</Mutable_Div_Block_Num_X>
+						<Mutable_Div_Block_Num_Y>6.0</Mutable_Div_Block_Num_Y>
+						<Mutable_Div_Half_OverLap>6.0</Mutable_Div_Half_OverLap>
 					</InnerDimension>
 					<TwoDirecEdgeSmoothParams>
 						<Mutable_TwoDirec_EdgeSmooth_Sigma>10.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
-						<Mutable_TwoDirec_EdgeSmooth_Dilation>1.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
-						<Mutable_TwoDirec_EdgeSmooth_Radius>2</Mutable_TwoDirec_EdgeSmooth_Radius>
+						<Mutable_TwoDirec_EdgeSmooth_Dilation>2.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
+						<Mutable_TwoDirec_EdgeSmooth_Radius>3.0</Mutable_TwoDirec_EdgeSmooth_Radius>
 					</TwoDirecEdgeSmoothParams>
 				</ParamItem>
 				<ParamItem>
@@ -2905,19 +2797,19 @@
 						<Mutable_SharpBoxFilterRadius>1</Mutable_SharpBoxFilterRadius>
 						<Mutable_SharpGradientThresh>8</Mutable_SharpGradientThresh>
 						<Mutable_ModelRefMaskThresh>30</Mutable_ModelRefMaskThresh>
-						<Mutable_AlignMask_Threshold>32</Mutable_AlignMask_Threshold>
+						<Mutable_AlignMask_Threshold>12</Mutable_AlignMask_Threshold>
 					</ParamAlignment>
 					<ParamSharpness>
 						<Mutable_EdgeSigma>0.850000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>12.799999</Mutable_EdgeAmount>
+						<Mutable_EdgeAmount>10.799999</Mutable_EdgeAmount>
 						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
 						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.5</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>3.500000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.150000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.150000</Mutable_White_Alpha_High>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.4</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_CtTreshold>10.000000</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.100000</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.100000</Mutable_White_Alpha_High>
 						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
 						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
 						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
@@ -2930,11 +2822,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>18.000000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>7.500000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>4.500000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>4.500000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>1.800000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>27.000000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>22.500000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>9.000000</Mutable_MotionLevelStrength3>
@@ -2949,8 +2841,8 @@
 					</InnerDimension>
 					<TwoDirecEdgeSmoothParams>
 						<Mutable_TwoDirec_EdgeSmooth_Sigma>10.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
-						<Mutable_TwoDirec_EdgeSmooth_Dilation>1.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
-						<Mutable_TwoDirec_EdgeSmooth_Radius>3</Mutable_TwoDirec_EdgeSmooth_Radius>
+						<Mutable_TwoDirec_EdgeSmooth_Dilation>4.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
+						<Mutable_TwoDirec_EdgeSmooth_Radius>4</Mutable_TwoDirec_EdgeSmooth_Radius>
 					</TwoDirecEdgeSmoothParams>
 				</ParamItem>
 			</ParamsArray>
@@ -2975,7 +2867,7 @@
 						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.2</Mutable_Spec_ModelFineTune_DenoiseStrength>
 						<Mutable_CtTreshold>2.000000</Mutable_CtTreshold>
 						<Mutable_White_Alpha_Low>0.300000</Mutable_White_Alpha_Low>
 						<Mutable_White_Alpha_High>0.300000</Mutable_White_Alpha_High>
@@ -2991,11 +2883,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>0.780000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>0.660000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.420000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.300000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.300000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>1.500000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>0.660000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>0.780000</Mutable_MotionLevelStrength3>
@@ -3029,7 +2921,7 @@
 						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.2</Mutable_Spec_ModelFineTune_DenoiseStrength>
 						<Mutable_CtTreshold>2.000000</Mutable_CtTreshold>
 						<Mutable_White_Alpha_Low>0.300000</Mutable_White_Alpha_Low>
 						<Mutable_White_Alpha_High>0.300000</Mutable_White_Alpha_High>
@@ -3045,11 +2937,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>0.680000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>0.560000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.320000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.200000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>1.400000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>0.560000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>0.680000</Mutable_MotionLevelStrength3>
@@ -3083,7 +2975,7 @@
 						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.2</Mutable_Spec_ModelFineTune_DenoiseStrength>
 						<Mutable_CtTreshold>2.000000</Mutable_CtTreshold>
 						<Mutable_White_Alpha_Low>0.300000</Mutable_White_Alpha_Low>
 						<Mutable_White_Alpha_High>0.300000</Mutable_White_Alpha_High>
@@ -3099,11 +2991,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>0.700000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>0.500000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.400000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.200000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>1.200000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>0.500000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>0.500000</Mutable_MotionLevelStrength3>
@@ -3137,7 +3029,7 @@
 						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.2</Mutable_Spec_ModelFineTune_DenoiseStrength>
 						<Mutable_CtTreshold>1.400000</Mutable_CtTreshold>
 						<Mutable_White_Alpha_Low>0.300000</Mutable_White_Alpha_Low>
 						<Mutable_White_Alpha_High>0.300000</Mutable_White_Alpha_High>
@@ -3153,11 +3045,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>1.200000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>0.800000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.600000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.100000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>2.200000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>0.800000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>0.800000</Mutable_MotionLevelStrength3>
@@ -3179,109 +3071,109 @@
 				<ParamItem>
 					<MatchMaxIso>530</MatchMaxIso>
 					<ParamAlignment>
-						<Mutable_SharpBoxFilterRadius>1</Mutable_SharpBoxFilterRadius>
-						<Mutable_SharpGradientThresh>6</Mutable_SharpGradientThresh>
-						<Mutable_ModelRefMaskThresh>12</Mutable_ModelRefMaskThresh>
-						<Mutable_AlignMask_Threshold>16</Mutable_AlignMask_Threshold>
+						<Mutable_SharpBoxFilterRadius>1.0</Mutable_SharpBoxFilterRadius>
+						<Mutable_SharpGradientThresh>6.0</Mutable_SharpGradientThresh>
+						<Mutable_ModelRefMaskThresh>12.0</Mutable_ModelRefMaskThresh>
+						<Mutable_AlignMask_Threshold>16.0</Mutable_AlignMask_Threshold>
 					</ParamAlignment>
 					<ParamSharpness>
-						<Mutable_EdgeSigma>0.950000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>12.730000</Mutable_EdgeAmount>
-						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
-						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
+						<Mutable_EdgeSigma>0.95</Mutable_EdgeSigma>
+						<Mutable_EdgeAmount>18.73</Mutable_EdgeAmount>
+						<Mutable_CgIncrease>0.0</Mutable_CgIncrease>
+						<Mutable_EdgeDilate>4.0</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.200000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.200000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.200000</Mutable_White_Alpha_High>
-						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
-						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
-						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
-						<Mutable_Edge_K_Shrink>1.000000</Mutable_Edge_K_Shrink>
-						<Mutable_Edge_A_Sigma>0.020000</Mutable_Edge_A_Sigma>
-						<Mutable_Edge_A_Thresh>0.010000</Mutable_Edge_A_Thresh>
-						<Mutable_Edge_K_Denoise>0.500000</Mutable_Edge_K_Denoise>
-						<Mutable_Edge_A_Power>4</Mutable_Edge_A_Power>
-						<Mutable_Ref_Blur_Rate_Threshold>0.950000</Mutable_Ref_Blur_Rate_Threshold>
-						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.01</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_CtTreshold>2.0</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.3</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.3</Mutable_White_Alpha_High>
+						<Mutable_Edge_K_Radius>1.0</Mutable_Edge_K_Radius>
+						<Mutable_Edge_K_Detail>0.02</Mutable_Edge_K_Detail>
+						<Mutable_Edge_K_Stretch>4.0</Mutable_Edge_K_Stretch>
+						<Mutable_Edge_K_Shrink>1.0</Mutable_Edge_K_Shrink>
+						<Mutable_Edge_A_Sigma>0.02</Mutable_Edge_A_Sigma>
+						<Mutable_Edge_A_Thresh>0.01</Mutable_Edge_A_Thresh>
+						<Mutable_Edge_K_Denoise>0.2</Mutable_Edge_K_Denoise>
+						<Mutable_Edge_A_Power>4.0</Mutable_Edge_A_Power>
+						<Mutable_Ref_Blur_Rate_Threshold>0.95</Mutable_Ref_Blur_Rate_Threshold>
+						<Mutable_Edge_k_Radius_Lr>1.0</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
-						<Mutable_MotionLevelStrength1>1.100000</Mutable_MotionLevelStrength1>
-						<Mutable_MotionLevelStrength2>0.700000</Mutable_MotionLevelStrength2>
-						<Mutable_MotionLevelStrength3>0.600000</Mutable_MotionLevelStrength3>
-						<Mutable_MotionLevelStrength4>0.200000</Mutable_MotionLevelStrength4>
-						<Mutable_MotionLevelStrength5>0.100000</Mutable_MotionLevelStrength5>
+						<Mutable_LevelStrength1>0.8</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>0.6</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.3</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.2</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.1</Mutable_LevelStrength5>
+						<Mutable_MotionLevelStrength1>1.1</Mutable_MotionLevelStrength1>
+						<Mutable_MotionLevelStrength2>0.7</Mutable_MotionLevelStrength2>
+						<Mutable_MotionLevelStrength3>0.6</Mutable_MotionLevelStrength3>
+						<Mutable_MotionLevelStrength4>0.2</Mutable_MotionLevelStrength4>
+						<Mutable_MotionLevelStrength5>0.1</Mutable_MotionLevelStrength5>
 					</UVDnoise>
 					<InnerDimension>
-						<Mutable_ImplementScale>4.000000</Mutable_ImplementScale>
-						<Mutable_Div_Block_Num_X>1</Mutable_Div_Block_Num_X>
-						<Mutable_Div_Block_Num_Y>6</Mutable_Div_Block_Num_Y>
-						<Mutable_Div_Half_OverLap>6</Mutable_Div_Half_OverLap>
+						<Mutable_ImplementScale>4.0</Mutable_ImplementScale>
+						<Mutable_Div_Block_Num_X>1.0</Mutable_Div_Block_Num_X>
+						<Mutable_Div_Block_Num_Y>6.0</Mutable_Div_Block_Num_Y>
+						<Mutable_Div_Half_OverLap>6.0</Mutable_Div_Half_OverLap>
 					</InnerDimension>
 					<TwoDirecEdgeSmoothParams>
 						<Mutable_TwoDirec_EdgeSmooth_Sigma>10.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
-						<Mutable_TwoDirec_EdgeSmooth_Dilation>1.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
-						<Mutable_TwoDirec_EdgeSmooth_Radius>1</Mutable_TwoDirec_EdgeSmooth_Radius>
+						<Mutable_TwoDirec_EdgeSmooth_Dilation>2.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
+						<Mutable_TwoDirec_EdgeSmooth_Radius>3.0</Mutable_TwoDirec_EdgeSmooth_Radius>
 					</TwoDirecEdgeSmoothParams>
 				</ParamItem>
 				<ParamItem>
 					<MatchMaxIso>800</MatchMaxIso>
 					<ParamAlignment>
-						<Mutable_SharpBoxFilterRadius>1</Mutable_SharpBoxFilterRadius>
-						<Mutable_SharpGradientThresh>8</Mutable_SharpGradientThresh>
-						<Mutable_ModelRefMaskThresh>16</Mutable_ModelRefMaskThresh>
-						<Mutable_AlignMask_Threshold>20</Mutable_AlignMask_Threshold>
+						<Mutable_SharpBoxFilterRadius>1.0</Mutable_SharpBoxFilterRadius>
+						<Mutable_SharpGradientThresh>8.0</Mutable_SharpGradientThresh>
+						<Mutable_ModelRefMaskThresh>16.0</Mutable_ModelRefMaskThresh>
+						<Mutable_AlignMask_Threshold>20.0</Mutable_AlignMask_Threshold>
 					</ParamAlignment>
 					<ParamSharpness>
-						<Mutable_EdgeSigma>0.950000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>12.730000</Mutable_EdgeAmount>
-						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
-						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
+						<Mutable_EdgeSigma>0.95</Mutable_EdgeSigma>
+						<Mutable_EdgeAmount>12.73</Mutable_EdgeAmount>
+						<Mutable_CgIncrease>0.0</Mutable_CgIncrease>
+						<Mutable_EdgeDilate>4.0</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.500000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.200000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.200000</Mutable_White_Alpha_High>
-						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
-						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
-						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
-						<Mutable_Edge_K_Shrink>1.000000</Mutable_Edge_K_Shrink>
-						<Mutable_Edge_A_Sigma>0.020000</Mutable_Edge_A_Sigma>
-						<Mutable_Edge_A_Thresh>0.010000</Mutable_Edge_A_Thresh>
-						<Mutable_Edge_K_Denoise>0.500000</Mutable_Edge_K_Denoise>
-						<Mutable_Edge_A_Power>4</Mutable_Edge_A_Power>
-						<Mutable_Ref_Blur_Rate_Threshold>0.950000</Mutable_Ref_Blur_Rate_Threshold>
-						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.2</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_CtTreshold>0.5</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.2</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.2</Mutable_White_Alpha_High>
+						<Mutable_Edge_K_Radius>1.0</Mutable_Edge_K_Radius>
+						<Mutable_Edge_K_Detail>0.02</Mutable_Edge_K_Detail>
+						<Mutable_Edge_K_Stretch>4.0</Mutable_Edge_K_Stretch>
+						<Mutable_Edge_K_Shrink>1.0</Mutable_Edge_K_Shrink>
+						<Mutable_Edge_A_Sigma>0.02</Mutable_Edge_A_Sigma>
+						<Mutable_Edge_A_Thresh>0.01</Mutable_Edge_A_Thresh>
+						<Mutable_Edge_K_Denoise>0.5</Mutable_Edge_K_Denoise>
+						<Mutable_Edge_A_Power>4.0</Mutable_Edge_A_Power>
+						<Mutable_Ref_Blur_Rate_Threshold>0.95</Mutable_Ref_Blur_Rate_Threshold>
+						<Mutable_Edge_k_Radius_Lr>1.0</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
-						<Mutable_MotionLevelStrength1>3.100000</Mutable_MotionLevelStrength1>
-						<Mutable_MotionLevelStrength2>1.600000</Mutable_MotionLevelStrength2>
-						<Mutable_MotionLevelStrength3>1.050000</Mutable_MotionLevelStrength3>
-						<Mutable_MotionLevelStrength4>0.200000</Mutable_MotionLevelStrength4>
-						<Mutable_MotionLevelStrength5>0.100000</Mutable_MotionLevelStrength5>
+						<Mutable_LevelStrength1>1.5</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.05</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.45</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.2</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.1</Mutable_LevelStrength5>
+						<Mutable_MotionLevelStrength1>3.1</Mutable_MotionLevelStrength1>
+						<Mutable_MotionLevelStrength2>1.6</Mutable_MotionLevelStrength2>
+						<Mutable_MotionLevelStrength3>1.05</Mutable_MotionLevelStrength3>
+						<Mutable_MotionLevelStrength4>0.2</Mutable_MotionLevelStrength4>
+						<Mutable_MotionLevelStrength5>0.1</Mutable_MotionLevelStrength5>
 					</UVDnoise>
 					<InnerDimension>
-						<Mutable_ImplementScale>4.000000</Mutable_ImplementScale>
-						<Mutable_Div_Block_Num_X>1</Mutable_Div_Block_Num_X>
-						<Mutable_Div_Block_Num_Y>6</Mutable_Div_Block_Num_Y>
-						<Mutable_Div_Half_OverLap>6</Mutable_Div_Half_OverLap>
+						<Mutable_ImplementScale>4.0</Mutable_ImplementScale>
+						<Mutable_Div_Block_Num_X>1.0</Mutable_Div_Block_Num_X>
+						<Mutable_Div_Block_Num_Y>6.0</Mutable_Div_Block_Num_Y>
+						<Mutable_Div_Half_OverLap>6.0</Mutable_Div_Half_OverLap>
 					</InnerDimension>
 					<TwoDirecEdgeSmoothParams>
 						<Mutable_TwoDirec_EdgeSmooth_Sigma>10.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
 						<Mutable_TwoDirec_EdgeSmooth_Dilation>1.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
-						<Mutable_TwoDirec_EdgeSmooth_Radius>1</Mutable_TwoDirec_EdgeSmooth_Radius>
+						<Mutable_TwoDirec_EdgeSmooth_Radius>1.0</Mutable_TwoDirec_EdgeSmooth_Radius>
 					</TwoDirecEdgeSmoothParams>
 				</ParamItem>
 				<ParamItem>
@@ -3315,11 +3207,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>1.000000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>0.700000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.300000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>2.100000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>1.100000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>0.700000</Mutable_MotionLevelStrength3>
@@ -3369,11 +3261,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>2.600000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.900000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>1.000000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.300000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>4.200000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>2.200000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>1.400000</Mutable_MotionLevelStrength3>
@@ -3423,11 +3315,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>3.200000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.800000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.600000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.500000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.000000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>12.000000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>8.000000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>3.000000</Mutable_MotionLevelStrength3>
@@ -3449,55 +3341,55 @@
 				<ParamItem>
 					<MatchMaxIso>10000</MatchMaxIso>
 					<ParamAlignment>
-						<Mutable_SharpBoxFilterRadius>1</Mutable_SharpBoxFilterRadius>
-						<Mutable_SharpGradientThresh>8</Mutable_SharpGradientThresh>
-						<Mutable_ModelRefMaskThresh>30</Mutable_ModelRefMaskThresh>
-						<Mutable_AlignMask_Threshold>30</Mutable_AlignMask_Threshold>
+						<Mutable_SharpBoxFilterRadius>1.0</Mutable_SharpBoxFilterRadius>
+						<Mutable_SharpGradientThresh>8.0</Mutable_SharpGradientThresh>
+						<Mutable_ModelRefMaskThresh>30.0</Mutable_ModelRefMaskThresh>
+						<Mutable_AlignMask_Threshold>30.0</Mutable_AlignMask_Threshold>
 					</ParamAlignment>
 					<ParamSharpness>
-						<Mutable_EdgeSigma>0.850000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>10.800000</Mutable_EdgeAmount>
-						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
-						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
+						<Mutable_EdgeSigma>0.85</Mutable_EdgeSigma>
+						<Mutable_EdgeAmount>10.8</Mutable_EdgeAmount>
+						<Mutable_CgIncrease>0.0</Mutable_CgIncrease>
+						<Mutable_EdgeDilate>4.0</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
 						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.4</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>4.000000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.200000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.200000</Mutable_White_Alpha_High>
-						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
-						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
-						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
-						<Mutable_Edge_K_Shrink>1.000000</Mutable_Edge_K_Shrink>
-						<Mutable_Edge_A_Sigma>0.020000</Mutable_Edge_A_Sigma>
-						<Mutable_Edge_A_Thresh>0.010000</Mutable_Edge_A_Thresh>
-						<Mutable_Edge_K_Denoise>0.500000</Mutable_Edge_K_Denoise>
-						<Mutable_Edge_A_Power>4</Mutable_Edge_A_Power>
-						<Mutable_Ref_Blur_Rate_Threshold>0.950000</Mutable_Ref_Blur_Rate_Threshold>
-						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
+						<Mutable_CtTreshold>4.0</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.1</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.1</Mutable_White_Alpha_High>
+						<Mutable_Edge_K_Radius>1.0</Mutable_Edge_K_Radius>
+						<Mutable_Edge_K_Detail>0.02</Mutable_Edge_K_Detail>
+						<Mutable_Edge_K_Stretch>4.0</Mutable_Edge_K_Stretch>
+						<Mutable_Edge_K_Shrink>1.0</Mutable_Edge_K_Shrink>
+						<Mutable_Edge_A_Sigma>0.02</Mutable_Edge_A_Sigma>
+						<Mutable_Edge_A_Thresh>0.01</Mutable_Edge_A_Thresh>
+						<Mutable_Edge_K_Denoise>0.5</Mutable_Edge_K_Denoise>
+						<Mutable_Edge_A_Power>4.0</Mutable_Edge_A_Power>
+						<Mutable_Ref_Blur_Rate_Threshold>0.95</Mutable_Ref_Blur_Rate_Threshold>
+						<Mutable_Edge_k_Radius_Lr>1.0</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
-						<Mutable_MotionLevelStrength1>6.430000</Mutable_MotionLevelStrength1>
-						<Mutable_MotionLevelStrength2>5.360000</Mutable_MotionLevelStrength2>
-						<Mutable_MotionLevelStrength3>2.150000</Mutable_MotionLevelStrength3>
-						<Mutable_MotionLevelStrength4>1.600000</Mutable_MotionLevelStrength4>
-						<Mutable_MotionLevelStrength5>1.070000</Mutable_MotionLevelStrength5>
+						<Mutable_LevelStrength1>8.1</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>4.69</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>2.98</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.2</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.2</Mutable_LevelStrength5>
+						<Mutable_MotionLevelStrength1>8.43</Mutable_MotionLevelStrength1>
+						<Mutable_MotionLevelStrength2>5.36</Mutable_MotionLevelStrength2>
+						<Mutable_MotionLevelStrength3>2.15</Mutable_MotionLevelStrength3>
+						<Mutable_MotionLevelStrength4>1.6</Mutable_MotionLevelStrength4>
+						<Mutable_MotionLevelStrength5>1.07</Mutable_MotionLevelStrength5>
 					</UVDnoise>
 					<InnerDimension>
-						<Mutable_ImplementScale>4.000000</Mutable_ImplementScale>
-						<Mutable_Div_Block_Num_X>1</Mutable_Div_Block_Num_X>
-						<Mutable_Div_Block_Num_Y>6</Mutable_Div_Block_Num_Y>
-						<Mutable_Div_Half_OverLap>6</Mutable_Div_Half_OverLap>
+						<Mutable_ImplementScale>4.0</Mutable_ImplementScale>
+						<Mutable_Div_Block_Num_X>1.0</Mutable_Div_Block_Num_X>
+						<Mutable_Div_Block_Num_Y>6.0</Mutable_Div_Block_Num_Y>
+						<Mutable_Div_Half_OverLap>6.0</Mutable_Div_Half_OverLap>
 					</InnerDimension>
 					<TwoDirecEdgeSmoothParams>
 						<Mutable_TwoDirec_EdgeSmooth_Sigma>10.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
-						<Mutable_TwoDirec_EdgeSmooth_Dilation>1.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
-						<Mutable_TwoDirec_EdgeSmooth_Radius>2</Mutable_TwoDirec_EdgeSmooth_Radius>
+						<Mutable_TwoDirec_EdgeSmooth_Dilation>5.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
+						<Mutable_TwoDirec_EdgeSmooth_Radius>2.0</Mutable_TwoDirec_EdgeSmooth_Radius>
 					</TwoDirecEdgeSmoothParams>
 				</ParamItem>
 				<ParamItem>
@@ -3531,11 +3423,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>18.000000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>7.500000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>4.500000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>4.500000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>1.800000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>27.000000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>22.500000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>9.000000</Mutable_MotionLevelStrength3>
@@ -3564,109 +3456,109 @@
 				<ParamItem>
 					<MatchMaxIso>100</MatchMaxIso>
 					<ParamAlignment>
-						<Mutable_SharpBoxFilterRadius>1</Mutable_SharpBoxFilterRadius>
-						<Mutable_SharpGradientThresh>6</Mutable_SharpGradientThresh>
-						<Mutable_ModelRefMaskThresh>9</Mutable_ModelRefMaskThresh>
-						<Mutable_AlignMask_Threshold>9</Mutable_AlignMask_Threshold>
+						<Mutable_SharpBoxFilterRadius>1.0</Mutable_SharpBoxFilterRadius>
+						<Mutable_SharpGradientThresh>6.0</Mutable_SharpGradientThresh>
+						<Mutable_ModelRefMaskThresh>9.0</Mutable_ModelRefMaskThresh>
+						<Mutable_AlignMask_Threshold>9.0</Mutable_AlignMask_Threshold>
 					</ParamAlignment>
 					<ParamSharpness>
-						<Mutable_EdgeSigma>0.850000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>13.730000</Mutable_EdgeAmount>
-						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
-						<Mutable_EdgeDilate>6.000000</Mutable_EdgeDilate>
+						<Mutable_EdgeSigma>0.85</Mutable_EdgeSigma>
+						<Mutable_EdgeAmount>16.73</Mutable_EdgeAmount>
+						<Mutable_CgIncrease>0.0</Mutable_CgIncrease>
+						<Mutable_EdgeDilate>6.0</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>-0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>0.500000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.170000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.170000</Mutable_White_Alpha_High>
-						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
-						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
-						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
-						<Mutable_Edge_K_Shrink>1.000000</Mutable_Edge_K_Shrink>
-						<Mutable_Edge_A_Sigma>0.020000</Mutable_Edge_A_Sigma>
-						<Mutable_Edge_A_Thresh>0.010000</Mutable_Edge_A_Thresh>
-						<Mutable_Edge_K_Denoise>0.500000</Mutable_Edge_K_Denoise>
-						<Mutable_Edge_A_Power>4</Mutable_Edge_A_Power>
-						<Mutable_Ref_Blur_Rate_Threshold>0.950000</Mutable_Ref_Blur_Rate_Threshold>
-						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_CtTreshold>6.0</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.3</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.3</Mutable_White_Alpha_High>
+						<Mutable_Edge_K_Radius>1.0</Mutable_Edge_K_Radius>
+						<Mutable_Edge_K_Detail>0.02</Mutable_Edge_K_Detail>
+						<Mutable_Edge_K_Stretch>4.0</Mutable_Edge_K_Stretch>
+						<Mutable_Edge_K_Shrink>1.0</Mutable_Edge_K_Shrink>
+						<Mutable_Edge_A_Sigma>0.02</Mutable_Edge_A_Sigma>
+						<Mutable_Edge_A_Thresh>0.01</Mutable_Edge_A_Thresh>
+						<Mutable_Edge_K_Denoise>0.5</Mutable_Edge_K_Denoise>
+						<Mutable_Edge_A_Power>4.0</Mutable_Edge_A_Power>
+						<Mutable_Ref_Blur_Rate_Threshold>0.95</Mutable_Ref_Blur_Rate_Threshold>
+						<Mutable_Edge_k_Radius_Lr>1.0</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
-						<Mutable_MotionLevelStrength1>1.400000</Mutable_MotionLevelStrength1>
-						<Mutable_MotionLevelStrength2>0.560000</Mutable_MotionLevelStrength2>
-						<Mutable_MotionLevelStrength3>0.680000</Mutable_MotionLevelStrength3>
-						<Mutable_MotionLevelStrength4>0.200000</Mutable_MotionLevelStrength4>
-						<Mutable_MotionLevelStrength5>0.200000</Mutable_MotionLevelStrength5>
+						<Mutable_LevelStrength1>1.34</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.12</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.64</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.2</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.2</Mutable_LevelStrength5>
+						<Mutable_MotionLevelStrength1>1.4</Mutable_MotionLevelStrength1>
+						<Mutable_MotionLevelStrength2>0.56</Mutable_MotionLevelStrength2>
+						<Mutable_MotionLevelStrength3>0.68</Mutable_MotionLevelStrength3>
+						<Mutable_MotionLevelStrength4>0.2</Mutable_MotionLevelStrength4>
+						<Mutable_MotionLevelStrength5>0.2</Mutable_MotionLevelStrength5>
 					</UVDnoise>
 					<InnerDimension>
-						<Mutable_ImplementScale>4.000000</Mutable_ImplementScale>
-						<Mutable_Div_Block_Num_X>1</Mutable_Div_Block_Num_X>
-						<Mutable_Div_Block_Num_Y>6</Mutable_Div_Block_Num_Y>
-						<Mutable_Div_Half_OverLap>6</Mutable_Div_Half_OverLap>
+						<Mutable_ImplementScale>4.0</Mutable_ImplementScale>
+						<Mutable_Div_Block_Num_X>1.0</Mutable_Div_Block_Num_X>
+						<Mutable_Div_Block_Num_Y>6.0</Mutable_Div_Block_Num_Y>
+						<Mutable_Div_Half_OverLap>6.0</Mutable_Div_Half_OverLap>
 					</InnerDimension>
 					<TwoDirecEdgeSmoothParams>
 						<Mutable_TwoDirec_EdgeSmooth_Sigma>5.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
-						<Mutable_TwoDirec_EdgeSmooth_Dilation>1.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
-						<Mutable_TwoDirec_EdgeSmooth_Radius>2</Mutable_TwoDirec_EdgeSmooth_Radius>
+						<Mutable_TwoDirec_EdgeSmooth_Dilation>3.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
+						<Mutable_TwoDirec_EdgeSmooth_Radius>4.0</Mutable_TwoDirec_EdgeSmooth_Radius>
 					</TwoDirecEdgeSmoothParams>
 				</ParamItem>
 				<ParamItem>
 					<MatchMaxIso>180</MatchMaxIso>
 					<ParamAlignment>
-						<Mutable_SharpBoxFilterRadius>1</Mutable_SharpBoxFilterRadius>
-						<Mutable_SharpGradientThresh>6</Mutable_SharpGradientThresh>
-						<Mutable_ModelRefMaskThresh>12</Mutable_ModelRefMaskThresh>
-						<Mutable_AlignMask_Threshold>9</Mutable_AlignMask_Threshold>
+						<Mutable_SharpBoxFilterRadius>1.0</Mutable_SharpBoxFilterRadius>
+						<Mutable_SharpGradientThresh>6.0</Mutable_SharpGradientThresh>
+						<Mutable_ModelRefMaskThresh>12.0</Mutable_ModelRefMaskThresh>
+						<Mutable_AlignMask_Threshold>9.0</Mutable_AlignMask_Threshold>
 					</ParamAlignment>
 					<ParamSharpness>
-						<Mutable_EdgeSigma>0.850000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>12.730000</Mutable_EdgeAmount>
-						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
-						<Mutable_EdgeDilate>6.000000</Mutable_EdgeDilate>
+						<Mutable_EdgeSigma>0.85</Mutable_EdgeSigma>
+						<Mutable_EdgeAmount>19.73</Mutable_EdgeAmount>
+						<Mutable_CgIncrease>0.0</Mutable_CgIncrease>
+						<Mutable_EdgeDilate>4.0</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.2</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.800000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.150000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.150000</Mutable_White_Alpha_High>
-						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
-						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
-						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
-						<Mutable_Edge_K_Shrink>1.000000</Mutable_Edge_K_Shrink>
-						<Mutable_Edge_A_Sigma>0.020000</Mutable_Edge_A_Sigma>
-						<Mutable_Edge_A_Thresh>0.010000</Mutable_Edge_A_Thresh>
-						<Mutable_Edge_K_Denoise>0.500000</Mutable_Edge_K_Denoise>
-						<Mutable_Edge_A_Power>4</Mutable_Edge_A_Power>
-						<Mutable_Ref_Blur_Rate_Threshold>0.950000</Mutable_Ref_Blur_Rate_Threshold>
-						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_CtTreshold>0.5</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.4</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.4</Mutable_White_Alpha_High>
+						<Mutable_Edge_K_Radius>1.0</Mutable_Edge_K_Radius>
+						<Mutable_Edge_K_Detail>0.02</Mutable_Edge_K_Detail>
+						<Mutable_Edge_K_Stretch>4.0</Mutable_Edge_K_Stretch>
+						<Mutable_Edge_K_Shrink>1.0</Mutable_Edge_K_Shrink>
+						<Mutable_Edge_A_Sigma>0.02</Mutable_Edge_A_Sigma>
+						<Mutable_Edge_A_Thresh>0.01</Mutable_Edge_A_Thresh>
+						<Mutable_Edge_K_Denoise>0.5</Mutable_Edge_K_Denoise>
+						<Mutable_Edge_A_Power>4.0</Mutable_Edge_A_Power>
+						<Mutable_Ref_Blur_Rate_Threshold>0.95</Mutable_Ref_Blur_Rate_Threshold>
+						<Mutable_Edge_k_Radius_Lr>1.0</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
-						<Mutable_MotionLevelStrength1>1.400000</Mutable_MotionLevelStrength1>
-						<Mutable_MotionLevelStrength2>0.560000</Mutable_MotionLevelStrength2>
-						<Mutable_MotionLevelStrength3>0.680000</Mutable_MotionLevelStrength3>
-						<Mutable_MotionLevelStrength4>0.200000</Mutable_MotionLevelStrength4>
-						<Mutable_MotionLevelStrength5>0.200000</Mutable_MotionLevelStrength5>
+						<Mutable_LevelStrength1>1.34</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.12</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.64</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.2</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.2</Mutable_LevelStrength5>
+						<Mutable_MotionLevelStrength1>1.4</Mutable_MotionLevelStrength1>
+						<Mutable_MotionLevelStrength2>0.56</Mutable_MotionLevelStrength2>
+						<Mutable_MotionLevelStrength3>0.68</Mutable_MotionLevelStrength3>
+						<Mutable_MotionLevelStrength4>0.2</Mutable_MotionLevelStrength4>
+						<Mutable_MotionLevelStrength5>0.2</Mutable_MotionLevelStrength5>
 					</UVDnoise>
 					<InnerDimension>
-						<Mutable_ImplementScale>4.000000</Mutable_ImplementScale>
-						<Mutable_Div_Block_Num_X>1</Mutable_Div_Block_Num_X>
-						<Mutable_Div_Block_Num_Y>6</Mutable_Div_Block_Num_Y>
-						<Mutable_Div_Half_OverLap>6</Mutable_Div_Half_OverLap>
+						<Mutable_ImplementScale>4.0</Mutable_ImplementScale>
+						<Mutable_Div_Block_Num_X>1.0</Mutable_Div_Block_Num_X>
+						<Mutable_Div_Block_Num_Y>6.0</Mutable_Div_Block_Num_Y>
+						<Mutable_Div_Half_OverLap>6.0</Mutable_Div_Half_OverLap>
 					</InnerDimension>
 					<TwoDirecEdgeSmoothParams>
 						<Mutable_TwoDirec_EdgeSmooth_Sigma>5.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
 						<Mutable_TwoDirec_EdgeSmooth_Dilation>1.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
-						<Mutable_TwoDirec_EdgeSmooth_Radius>2</Mutable_TwoDirec_EdgeSmooth_Radius>
+						<Mutable_TwoDirec_EdgeSmooth_Radius>1.0</Mutable_TwoDirec_EdgeSmooth_Radius>
 					</TwoDirecEdgeSmoothParams>
 				</ParamItem>
 				<ParamItem>
@@ -3684,10 +3576,10 @@
 						<Mutable_EdgeDilate>6.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.500000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.150000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.150000</Mutable_White_Alpha_High>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_CtTreshold>2.000000</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.400000</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.400000</Mutable_White_Alpha_High>
 						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
 						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
 						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
@@ -3700,11 +3592,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>0.700000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>0.500000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.400000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.200000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.200000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>1.200000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>0.500000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>0.500000</Mutable_MotionLevelStrength3>
@@ -3738,10 +3630,10 @@
 						<Mutable_EdgeDilate>6.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.2</Mutable_Spec_ModelFineTune_DenoiseStrength>
 						<Mutable_CtTreshold>1.500000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.150000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.150000</Mutable_White_Alpha_High>
+						<Mutable_White_Alpha_Low>0.300000</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.300000</Mutable_White_Alpha_High>
 						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
 						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
 						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
@@ -3754,11 +3646,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>2.200000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.800000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>1.600000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.100000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>2.200000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>0.800000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>0.800000</Mutable_MotionLevelStrength3>
@@ -3780,55 +3672,55 @@
 				<ParamItem>
 					<MatchMaxIso>540</MatchMaxIso>
 					<ParamAlignment>
-						<Mutable_SharpBoxFilterRadius>1</Mutable_SharpBoxFilterRadius>
-						<Mutable_SharpGradientThresh>6</Mutable_SharpGradientThresh>
-						<Mutable_ModelRefMaskThresh>12</Mutable_ModelRefMaskThresh>
-						<Mutable_AlignMask_Threshold>16</Mutable_AlignMask_Threshold>
+						<Mutable_SharpBoxFilterRadius>1.0</Mutable_SharpBoxFilterRadius>
+						<Mutable_SharpGradientThresh>6.0</Mutable_SharpGradientThresh>
+						<Mutable_ModelRefMaskThresh>12.0</Mutable_ModelRefMaskThresh>
+						<Mutable_AlignMask_Threshold>16.0</Mutable_AlignMask_Threshold>
 					</ParamAlignment>
 					<ParamSharpness>
-						<Mutable_EdgeSigma>0.850000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>13.730000</Mutable_EdgeAmount>
-						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
-						<Mutable_EdgeDilate>6.000000</Mutable_EdgeDilate>
+						<Mutable_EdgeSigma>0.85</Mutable_EdgeSigma>
+						<Mutable_EdgeAmount>20.73</Mutable_EdgeAmount>
+						<Mutable_CgIncrease>0.0</Mutable_CgIncrease>
+						<Mutable_EdgeDilate>4.0</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
 						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.800000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.150000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.150000</Mutable_White_Alpha_High>
-						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
-						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
-						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
-						<Mutable_Edge_K_Shrink>1.000000</Mutable_Edge_K_Shrink>
-						<Mutable_Edge_A_Sigma>0.020000</Mutable_Edge_A_Sigma>
-						<Mutable_Edge_A_Thresh>0.010000</Mutable_Edge_A_Thresh>
-						<Mutable_Edge_K_Denoise>0.500000</Mutable_Edge_K_Denoise>
-						<Mutable_Edge_A_Power>4</Mutable_Edge_A_Power>
-						<Mutable_Ref_Blur_Rate_Threshold>0.950000</Mutable_Ref_Blur_Rate_Threshold>
-						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
+						<Mutable_CtTreshold>3.0</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.32</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.32</Mutable_White_Alpha_High>
+						<Mutable_Edge_K_Radius>1.0</Mutable_Edge_K_Radius>
+						<Mutable_Edge_K_Detail>0.02</Mutable_Edge_K_Detail>
+						<Mutable_Edge_K_Stretch>4.0</Mutable_Edge_K_Stretch>
+						<Mutable_Edge_K_Shrink>1.0</Mutable_Edge_K_Shrink>
+						<Mutable_Edge_A_Sigma>0.02</Mutable_Edge_A_Sigma>
+						<Mutable_Edge_A_Thresh>0.01</Mutable_Edge_A_Thresh>
+						<Mutable_Edge_K_Denoise>0.5</Mutable_Edge_K_Denoise>
+						<Mutable_Edge_A_Power>4.0</Mutable_Edge_A_Power>
+						<Mutable_Ref_Blur_Rate_Threshold>0.95</Mutable_Ref_Blur_Rate_Threshold>
+						<Mutable_Edge_k_Radius_Lr>1.0</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
-						<Mutable_MotionLevelStrength1>1.100000</Mutable_MotionLevelStrength1>
-						<Mutable_MotionLevelStrength2>0.700000</Mutable_MotionLevelStrength2>
-						<Mutable_MotionLevelStrength3>0.600000</Mutable_MotionLevelStrength3>
-						<Mutable_MotionLevelStrength4>0.200000</Mutable_MotionLevelStrength4>
-						<Mutable_MotionLevelStrength5>0.100000</Mutable_MotionLevelStrength5>
+						<Mutable_LevelStrength1>0.8</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>0.6</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.3</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.2</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.1</Mutable_LevelStrength5>
+						<Mutable_MotionLevelStrength1>1.1</Mutable_MotionLevelStrength1>
+						<Mutable_MotionLevelStrength2>0.7</Mutable_MotionLevelStrength2>
+						<Mutable_MotionLevelStrength3>0.6</Mutable_MotionLevelStrength3>
+						<Mutable_MotionLevelStrength4>0.2</Mutable_MotionLevelStrength4>
+						<Mutable_MotionLevelStrength5>0.1</Mutable_MotionLevelStrength5>
 					</UVDnoise>
 					<InnerDimension>
-						<Mutable_ImplementScale>4.000000</Mutable_ImplementScale>
-						<Mutable_Div_Block_Num_X>1</Mutable_Div_Block_Num_X>
-						<Mutable_Div_Block_Num_Y>6</Mutable_Div_Block_Num_Y>
-						<Mutable_Div_Half_OverLap>6</Mutable_Div_Half_OverLap>
+						<Mutable_ImplementScale>4.0</Mutable_ImplementScale>
+						<Mutable_Div_Block_Num_X>1.0</Mutable_Div_Block_Num_X>
+						<Mutable_Div_Block_Num_Y>6.0</Mutable_Div_Block_Num_Y>
+						<Mutable_Div_Half_OverLap>6.0</Mutable_Div_Half_OverLap>
 					</InnerDimension>
 					<TwoDirecEdgeSmoothParams>
-						<Mutable_TwoDirec_EdgeSmooth_Sigma>10.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
-						<Mutable_TwoDirec_EdgeSmooth_Dilation>1.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
-						<Mutable_TwoDirec_EdgeSmooth_Radius>3</Mutable_TwoDirec_EdgeSmooth_Radius>
+						<Mutable_TwoDirec_EdgeSmooth_Sigma>20.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
+						<Mutable_TwoDirec_EdgeSmooth_Dilation>2.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
+						<Mutable_TwoDirec_EdgeSmooth_Radius>3.0</Mutable_TwoDirec_EdgeSmooth_Radius>
 					</TwoDirecEdgeSmoothParams>
 				</ParamItem>
 				<ParamItem>
@@ -3846,10 +3738,10 @@
 						<Mutable_EdgeDilate>6.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>0.500000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.150000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.150000</Mutable_White_Alpha_High>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.01</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_CtTreshold>4.00000</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.300000</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.300000</Mutable_White_Alpha_High>
 						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
 						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
 						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
@@ -3862,11 +3754,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>4.000000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>2.800000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>1.200000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.500000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.500000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>2.100000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>1.100000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>0.700000</Mutable_MotionLevelStrength3>
@@ -3878,6 +3770,7 @@
 						<Mutable_Div_Block_Num_X>1</Mutable_Div_Block_Num_X>
 						<Mutable_Div_Block_Num_Y>6</Mutable_Div_Block_Num_Y>
 						<Mutable_Div_Half_OverLap>6</Mutable_Div_Half_OverLap>
+						<Mutable_UV_Saturation_Gain>0.9</Mutable_UV_Saturation_Gain>
 					</InnerDimension>
 					<TwoDirecEdgeSmoothParams>
 						<Mutable_TwoDirec_EdgeSmooth_Sigma>10.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
@@ -3895,15 +3788,15 @@
 					</ParamAlignment>
 					<ParamSharpness>
 						<Mutable_EdgeSigma>0.850000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>10.730000</Mutable_EdgeAmount>
+						<Mutable_EdgeAmount>20.730000</Mutable_EdgeAmount>
 						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
 						<Mutable_EdgeDilate>6.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
 						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.2</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.800000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.150000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.150000</Mutable_White_Alpha_High>
+						<Mutable_CtTreshold>0.400000</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.250000</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.250000</Mutable_White_Alpha_High>
 						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
 						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
 						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
@@ -3916,11 +3809,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>1.100000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.100000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.600000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.600000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>6.100000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>4.100000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>2.100000</Mutable_MotionLevelStrength3>
@@ -3949,15 +3842,15 @@
 					</ParamAlignment>
 					<ParamSharpness>
 						<Mutable_EdgeSigma>0.850000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>12.730000</Mutable_EdgeAmount>
+						<Mutable_EdgeAmount>16.730000</Mutable_EdgeAmount>
 						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
 						<Mutable_EdgeDilate>6.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
 						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.2</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.000000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.150000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.150000</Mutable_White_Alpha_High>
+						<Mutable_CtTreshold>0.600000</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.200000</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.200000</Mutable_White_Alpha_High>
 						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
 						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
 						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
@@ -3970,11 +3863,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>2.600000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.600000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>1.000000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.300000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>4.200000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>2.200000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>1.400000</Mutable_MotionLevelStrength3>
@@ -4003,13 +3896,13 @@
 					</ParamAlignment>
 					<ParamSharpness>
 						<Mutable_EdgeSigma>0.850000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>16.730000</Mutable_EdgeAmount>
+						<Mutable_EdgeAmount>22.730000</Mutable_EdgeAmount>
 						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
 						<Mutable_EdgeDilate>6.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.500000</Mutable_CtTreshold>
+						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.1</Mutable_Spec_ModelFineTune_DenoiseStrength>
+						<Mutable_CtTreshold>3.000000</Mutable_CtTreshold>
 						<Mutable_White_Alpha_Low>0.200000</Mutable_White_Alpha_Low>
 						<Mutable_White_Alpha_High>0.200000</Mutable_White_Alpha_High>
 						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
@@ -4024,65 +3917,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
-						<Mutable_MotionLevelStrength1>12.100000</Mutable_MotionLevelStrength1>
-						<Mutable_MotionLevelStrength2>8.100000</Mutable_MotionLevelStrength2>
-						<Mutable_MotionLevelStrength3>3.100000</Mutable_MotionLevelStrength3>
-						<Mutable_MotionLevelStrength4>1.100000</Mutable_MotionLevelStrength4>
-						<Mutable_MotionLevelStrength5>0.100000</Mutable_MotionLevelStrength5>
-					</UVDnoise>
-					<InnerDimension>
-						<Mutable_ImplementScale>4.000000</Mutable_ImplementScale>
-						<Mutable_Div_Block_Num_X>1</Mutable_Div_Block_Num_X>
-						<Mutable_Div_Block_Num_Y>6</Mutable_Div_Block_Num_Y>
-						<Mutable_Div_Half_OverLap>6</Mutable_Div_Half_OverLap>
-					</InnerDimension>
-					<TwoDirecEdgeSmoothParams>
-						<Mutable_TwoDirec_EdgeSmooth_Sigma>10.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
-						<Mutable_TwoDirec_EdgeSmooth_Dilation>1.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
-						<Mutable_TwoDirec_EdgeSmooth_Radius>2</Mutable_TwoDirec_EdgeSmooth_Radius>
-					</TwoDirecEdgeSmoothParams>
-				</ParamItem>
-				<ParamItem>
-					<MatchMaxIso>10000</MatchMaxIso>
-					<ParamAlignment>
-						<Mutable_SharpBoxFilterRadius>1</Mutable_SharpBoxFilterRadius>
-						<Mutable_SharpGradientThresh>8</Mutable_SharpGradientThresh>
-						<Mutable_ModelRefMaskThresh>24</Mutable_ModelRefMaskThresh>
-						<Mutable_AlignMask_Threshold>24</Mutable_AlignMask_Threshold>
-					</ParamAlignment>
-					<ParamSharpness>
-						<Mutable_EdgeSigma>0.850000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>16.730000</Mutable_EdgeAmount>
-						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
-						<Mutable_EdgeDilate>6.000000</Mutable_EdgeDilate>
-					</ParamSharpness>
-					<DetailYDnoise>
-						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>1.500000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.200000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.200000</Mutable_White_Alpha_High>
-						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
-						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
-						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
-						<Mutable_Edge_K_Shrink>1.000000</Mutable_Edge_K_Shrink>
-						<Mutable_Edge_A_Sigma>0.020000</Mutable_Edge_A_Sigma>
-						<Mutable_Edge_A_Thresh>0.010000</Mutable_Edge_A_Thresh>
-						<Mutable_Edge_K_Denoise>0.500000</Mutable_Edge_K_Denoise>
-						<Mutable_Edge_A_Power>4</Mutable_Edge_A_Power>
-						<Mutable_Ref_Blur_Rate_Threshold>0.950000</Mutable_Ref_Blur_Rate_Threshold>
-						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
-					</DetailYDnoise>
-					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>3.300000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>1.900000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>0.700000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>0.600000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>0.100000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>12.100000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>8.100000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>3.100000</Mutable_MotionLevelStrength3>
@@ -4107,19 +3946,19 @@
 						<Mutable_SharpBoxFilterRadius>1</Mutable_SharpBoxFilterRadius>
 						<Mutable_SharpGradientThresh>8</Mutable_SharpGradientThresh>
 						<Mutable_ModelRefMaskThresh>30</Mutable_ModelRefMaskThresh>
-						<Mutable_AlignMask_Threshold>24</Mutable_AlignMask_Threshold>
+						<Mutable_AlignMask_Threshold>45</Mutable_AlignMask_Threshold>
 					</ParamAlignment>
 					<ParamSharpness>
 						<Mutable_EdgeSigma>0.850000</Mutable_EdgeSigma>
-						<Mutable_EdgeAmount>14.730000</Mutable_EdgeAmount>
+						<Mutable_EdgeAmount>12.730000</Mutable_EdgeAmount>
 						<Mutable_CgIncrease>0.000000</Mutable_CgIncrease>
-						<Mutable_EdgeDilate>6.000000</Mutable_EdgeDilate>
+						<Mutable_EdgeDilate>4.000000</Mutable_EdgeDilate>
 					</ParamSharpness>
 					<DetailYDnoise>
 						<Mutable_Spec_ModelFineTune_DenoiseStrength>0.3</Mutable_Spec_ModelFineTune_DenoiseStrength>
-						<Mutable_CtTreshold>2.000000</Mutable_CtTreshold>
-						<Mutable_White_Alpha_Low>0.150000</Mutable_White_Alpha_Low>
-						<Mutable_White_Alpha_High>0.150000</Mutable_White_Alpha_High>
+						<Mutable_CtTreshold>9.500000</Mutable_CtTreshold>
+						<Mutable_White_Alpha_Low>0.100000</Mutable_White_Alpha_Low>
+						<Mutable_White_Alpha_High>0.100000</Mutable_White_Alpha_High>
 						<Mutable_Edge_K_Radius>1</Mutable_Edge_K_Radius>
 						<Mutable_Edge_K_Detail>0.020000</Mutable_Edge_K_Detail>
 						<Mutable_Edge_K_Stretch>4.000000</Mutable_Edge_K_Stretch>
@@ -4132,11 +3971,11 @@
 						<Mutable_Edge_k_Radius_Lr>1</Mutable_Edge_k_Radius_Lr>
 					</DetailYDnoise>
 					<UVDnoise>
-						<Mutable_LevelStrength1>0.0</Mutable_LevelStrength1>
-						<Mutable_LevelStrength2>0.0</Mutable_LevelStrength2>
-						<Mutable_LevelStrength3>0.0</Mutable_LevelStrength3>
-						<Mutable_LevelStrength4>0.0</Mutable_LevelStrength4>
-						<Mutable_LevelStrength5>0.0</Mutable_LevelStrength5>
+						<Mutable_LevelStrength1>8.000000</Mutable_LevelStrength1>
+						<Mutable_LevelStrength2>3.400000</Mutable_LevelStrength2>
+						<Mutable_LevelStrength3>2.000000</Mutable_LevelStrength3>
+						<Mutable_LevelStrength4>1.500000</Mutable_LevelStrength4>
+						<Mutable_LevelStrength5>1.000000</Mutable_LevelStrength5>
 						<Mutable_MotionLevelStrength1>12.000000</Mutable_MotionLevelStrength1>
 						<Mutable_MotionLevelStrength2>10.000000</Mutable_MotionLevelStrength2>
 						<Mutable_MotionLevelStrength3>4.000000</Mutable_MotionLevelStrength3>
@@ -4151,11 +3990,12 @@
 					</InnerDimension>
 					<TwoDirecEdgeSmoothParams>
 						<Mutable_TwoDirec_EdgeSmooth_Sigma>10.0</Mutable_TwoDirec_EdgeSmooth_Sigma>
-						<Mutable_TwoDirec_EdgeSmooth_Dilation>1.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
-						<Mutable_TwoDirec_EdgeSmooth_Radius>2</Mutable_TwoDirec_EdgeSmooth_Radius>
+						<Mutable_TwoDirec_EdgeSmooth_Dilation>4.0</Mutable_TwoDirec_EdgeSmooth_Dilation>
+						<Mutable_TwoDirec_EdgeSmooth_Radius>4</Mutable_TwoDirec_EdgeSmooth_Radius>
 					</TwoDirecEdgeSmoothParams>
 				</ParamItem>
 			</ParamsArray>
 		</ParamGroup>
 	</SRParams>
+
 </TetrasSRParams>
