@@ -1330,6 +1330,7 @@ PRODUCT_PACKAGES += \
     PowerOffAlarm \
     HotwordEnrollmentOKGoogleHEXAGON \
     HotwordEnrollmentXGoogleHEXAGON \
+    datastatusnotification \
     com.android.hotwordenrollment.common.util \
     android.hardware.ir@1.0-service \
     android.hardware.neuralnetworks@1.3-service-qti \
