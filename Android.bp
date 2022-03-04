@@ -149,3 +149,12 @@ prebuilt_etc_xml {
 	soc_specific: true,
 }
 
+prebuilt_etc_xml {
+	name: "c2_manifest_xiaomi",
+	owner: "xiaomi",
+	src: "proprietary/odm/etc/vintf/manifest/c2_manifest_xiaomi.xml",
+	filename_from_src: true,
+	sub_dir: "vintf/manifest",
+	device_specific: true,
+}
+
