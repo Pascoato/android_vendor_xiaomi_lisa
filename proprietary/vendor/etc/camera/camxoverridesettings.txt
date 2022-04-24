@@ -76,3 +76,9 @@ sessionResponseTimePadding=100
 #enable earlyPCR
 numPCRsBeforeStreamOn=1
 
+#TS beauty enable EGLCache
+enableEGLCache=TRUE
+
+#Enable shot2Shutter for zsl capture
+soundTimeWhenAnchor=1
+
