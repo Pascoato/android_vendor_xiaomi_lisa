@@ -71,7 +71,7 @@
             // override chroma qp offset value for 8 and 10 bits:
             // default: 0
             // allowed override value: -12
-            "enc_chroma_qp_offset_10_bit": 0,
+            "enc_chroma_qp_offset_10_bit": -12,
             "enc_chroma_qp_offset_8_bit": 0,
             //encoder bitrate savings control (CAC) - content adaptive coding feature
             // it is bitmask.
@@ -89,7 +89,7 @@
             "enc_bitrate_boost_qp_max": 40,
             // time threshold of output buffer allocation loop since last input buffer queued(ms)
             // 0 --> no such limitation (loop until allocation done)
-            "max_retry_alloc_output_timeout": 0,
+            "max_retry_alloc_output_timeout": 10000,
             // override default primaries to BT709 for >=UHD decode
             "default_primaries_override" : 0,
 
