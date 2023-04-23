@@ -183,7 +183,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/lisa/proprietary/vendor/etc/camera/seg_quantized.dlc:$(TARGET_COPY_OUT_VENDOR)/etc/camera/seg_quantized.dlc \
     vendor/xiaomi/lisa/proprietary/vendor/etc/camera/siq_ocl_cache:$(TARGET_COPY_OUT_VENDOR)/etc/camera/siq_ocl_cache \
     vendor/xiaomi/lisa/proprietary/vendor/etc/camera/sr_params.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/sr_params.xml \
-    vendor/xiaomi/lisa/proprietary/vendor/etc/camera/st_license.lic:$(TARGET_COPY_OUT_VENDOR)/etc/camera/st_license.lic \
     vendor/xiaomi/lisa/proprietary/vendor/etc/camera/superiq_model:$(TARGET_COPY_OUT_VENDOR)/etc/camera/superiq_model \
     vendor/xiaomi/lisa/proprietary/vendor/etc/camera/ubwctp10helper.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/ubwctp10helper.bin \
     vendor/xiaomi/lisa/proprietary/vendor/etc/camera/vidhance_calibration:$(TARGET_COPY_OUT_VENDOR)/etc/camera/vidhance_calibration \
